@@ -25,7 +25,7 @@ Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce sol
 ```
 covidComuniSicilia/
 │
-├── 08253/
+├── 082053/
 │   ├── output/
 |       ├── 20201026-Covid_PA.csv
 |   ├── rawdata/
