@@ -23,7 +23,7 @@ Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce sol
 ## Struttura Repository
 
 ```
-covidComuniSiclia/
+covidComuniSicilia/
 │
 ├── 08253/
 │   ├── output/
@@ -31,7 +31,7 @@ covidComuniSiclia/
 |   ├── rawdata/
 |       ├── 20201026-Covid_PA_20201026.pdf
 |       ├── 20201102-Covid_PA_201102.pdf
-|   ├── imgs/
+├── imgs/
 ```
 
 ## Struttura file CSV
