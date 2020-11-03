@@ -5,7 +5,7 @@
 - [Report sui casi positivi di COVID 19 in provincia di Palermo](#report-sui-casi-positivi-di-covid-19-in-provincia-di-palermo)
   - [Introduzione](#introduzione)
   - [Perché questo repository](#perché-questo-repository)
-  - [Struttura Repository](#struttura-repository)
+  - [Struttura repository](#struttura-repository)
   - [Struttura file CSV](#struttura-file-csv)
 
 <!-- /TOC -->
@@ -20,12 +20,12 @@ A partire dal 28/ottobre/2020 nel [Canale Telegram](https://t.me/ProtezioneCivil
 
 Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce solo i PDF, in questo repository li raccoglieremo e estrarremo i dati per renderli usufruibili in forma di testo strutturato, i classici file CSV.
 
-## Struttura Repository
+## Struttura repository
 
 ```
 covidComuniSiclia/
 │
-├── 08253/
+├── 082053/
 │   ├── output/
 |       ├── 20201026-Covid_PA.csv
 |   ├── rawdata/
@@ -38,10 +38,10 @@ covidComuniSiclia/
 
 Nome campo    | descrizione | formato | esempio
 --------------|-------------|---------|-------
-CodiceISTAT   | Codice ISTAT numerico | numerico | 82001
-COMUNE        | Denominazione Comune | Testo | Alia
-data          | Data| testo | 2020-10-19
-positivi      | Numero di Positivi | numerico | 3
+_CodiceISTAT_   | Codice ISTAT numerico | numerico | 82001
+_COMUNE_        | Denominazione Comune | Testo | Alia
+_data_          | Data| testo | 2020-10-19
+_positivi_      | Numero di Positivi | numerico | 3
 
 --
 
