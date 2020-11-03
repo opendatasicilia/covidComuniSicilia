@@ -1,0 +1,575 @@
+CodiceISTAT,COMUNE,data,positivi
+82001,Alia,2020-10-19,0
+82002,Alimena,2020-10-19,3
+82003,Aliminusa,2020-10-19,3
+82004,Altavilla Milicia,2020-10-19,13
+82005,Altofonte,2020-10-19,3
+82006,Bagheria,2020-10-19,70
+82007,Balestrate,2020-10-19,1
+82008,Baucina,2020-10-19,4
+82009,Belmonte Mezzagno,2020-10-19,10
+82010,Bisacquino,2020-10-19,4
+82082,Blufi,2020-10-19,0
+82011,Bolognetta,2020-10-19,0
+82012,Bompietro,2020-10-19,0
+82013,Borgetto,2020-10-19,5
+82014,Caccamo,2020-10-19,3
+82015,Caltavuturo,2020-10-19,1
+82016,Campofelice di Fitalia,2020-10-19,0
+82017,Campofelice di Roccella,2020-10-19,11
+82018,Campofiorito,2020-10-19,0
+82019,Camporeale,2020-10-19,1
+82020,Capaci,2020-10-19,6
+82021,Carini,2020-10-19,32
+82022,Castelbuono,2020-10-19,1
+82023,Casteldaccia,2020-10-19,11
+82024,Castellana Sicula,2020-10-19,1
+82025,Castronovo di Sicilia,2020-10-19,0
+82026,Cefalà  Diana,2020-10-19,14
+82027,Cefaù,2020-10-19,7
+82028,Cerda,2020-10-19,8
+82029,Chiusa Sclafani,2020-10-19,6
+82030,Ciminna,2020-10-19,2
+82031,Cinisi,2020-10-19,6
+82032,Collesano,2020-10-19,1
+82033,Contessa Entellina,2020-10-19,5
+82034,Corleone,2020-10-19,34
+82035,Ficarazzi,2020-10-19,15
+82036,Gangi,2020-10-19,0
+82037,Geraci Siculo,2020-10-19,0
+82038,Giardinello,2020-10-19,1
+82039,Giuliana,2020-10-19,1
+82040,Godrano,2020-10-19,2
+82041,Gratteri,2020-10-19,0
+82042,Isnello,2020-10-19,0
+82043,Isola delle Femmine,2020-10-19,5
+82044,Lascari,2020-10-19,13
+82045,Lercara Friddi,2020-10-19,7
+82046,Marineo,2020-10-19,17
+82047,Mezzojuso,2020-10-19,42
+82048,Misilmeri,2020-10-19,60
+82049,Monreale,2020-10-19,4
+82050,Montelepre,2020-10-19,3
+82051,Montemaggiore Belsito,2020-10-19,57
+82052,Palazzo Adriano,2020-10-19,0
+82053,Palermo,2020-10-19,1437
+82054,Partinico,2020-10-19,54
+82055,Petralia Soprana,2020-10-19,0
+82056,Petralia Sottana,2020-10-19,1
+82057,Piana degli Albanesi,2020-10-19,
+82058,Polizzi Generosa,2020-10-19,2
+82059,Pollina,2020-10-19,0
+82060,Prizzi,2020-10-19,0
+82061,Roccamena,2020-10-19,0
+82062,Roccapalumba,2020-10-19,0
+82063,San Cipirello,2020-10-19,42
+82064,San Giuseppe Jato,2020-10-19,67
+82065,San Mauro Castelverde,2020-10-19,0
+82066,Santa Cristina Gela,2020-10-19,
+82067,Santa Flavia,2020-10-19,6
+82068,Sciara,2020-10-19,4
+82081,Scillato,2020-10-19,0
+82069,Sclafani Bagni,2020-10-19,0
+82070,Termini Imerese,2020-10-19,24
+82071,Terrasini,2020-10-19,6
+82072,Torretta,2020-10-19,13
+82073,Trabia,2020-10-19,11
+82074,Trappeto,2020-10-19,0
+82075,Ustica,2020-10-19,
+82076,Valledolmo,2020-10-19,0
+82077,Ventimiglia di Sicilia,2020-10-19,0
+82078,Vicari,2020-10-19,0
+82079,Villabate,2020-10-19,34
+82080,Villafrati,2020-10-19,100
+82001,Alia,2020-10-20,0
+82002,Alimena,2020-10-20,5
+82003,Aliminusa,2020-10-20,3
+82004,Altavilla Milicia,2020-10-20,13
+82005,Altofonte,2020-10-20,0
+82006,Bagheria,2020-10-20,70
+82007,Balestrate,2020-10-20,3
+82008,Baucina,2020-10-20,4
+82009,Belmonte Mezzagno,2020-10-20,11
+82010,Bisacquino,2020-10-20,5
+82082,Blufi,2020-10-20,0
+82011,Bolognetta,2020-10-20,0
+82012,Bompietro,2020-10-20,0
+82013,Borgetto,2020-10-20,5
+82014,Caccamo,2020-10-20,3
+82015,Caltavuturo,2020-10-20,1
+82016,Campofelice di Fitalia,2020-10-20,0
+82017,Campofelice di Roccella,2020-10-20,12
+82018,Campofiorito,2020-10-20,0
+82019,Camporeale,2020-10-20,1
+82020,Capaci,2020-10-20,8
+82021,Carini,2020-10-20,45
+82022,Castelbuono,2020-10-20,1
+82023,Casteldaccia,2020-10-20,11
+82024,Castellana Sicula,2020-10-20,1
+82025,Castronovo di Sicilia,2020-10-20,0
+82026,Cefalà  Diana,2020-10-20,14
+82027,Cefaù,2020-10-20,10
+82028,Cerda,2020-10-20,9
+82029,Chiusa Sclafani,2020-10-20,13
+82030,Ciminna,2020-10-20,2
+82031,Cinisi,2020-10-20,5
+82032,Collesano,2020-10-20,2
+82033,Contessa Entellina,2020-10-20,7
+82034,Corleone,2020-10-20,30
+82035,Ficarazzi,2020-10-20,15
+82036,Gangi,2020-10-20,0
+82037,Geraci Siculo,2020-10-20,0
+82038,Giardinello,2020-10-20,1
+82039,Giuliana,2020-10-20,2
+82040,Godrano,2020-10-20,2
+82041,Gratteri,2020-10-20,0
+82042,Isnello,2020-10-20,0
+82043,Isola delle Femmine,2020-10-20,11
+82044,Lascari,2020-10-20,16
+82045,Lercara Friddi,2020-10-20,3
+82046,Marineo,2020-10-20,17
+82047,Mezzojuso,2020-10-20,43
+82048,Misilmeri,2020-10-20,67
+82049,Monreale,2020-10-20,0
+82050,Montelepre,2020-10-20,3
+82051,Montemaggiore Belsito,2020-10-20,50
+82052,Palazzo Adriano,2020-10-20,0
+82053,Palermo,2020-10-20,1477
+82054,Partinico,2020-10-20,70
+82055,Petralia Soprana,2020-10-20,0
+82056,Petralia Sottana,2020-10-20,1
+82057,Piana degli Albanesi,2020-10-20,
+82058,Polizzi Generosa,2020-10-20,2
+82059,Pollina,2020-10-20,0
+82060,Prizzi,2020-10-20,0
+82061,Roccamena,2020-10-20,0
+82062,Roccapalumba,2020-10-20,0
+82063,San Cipirello,2020-10-20,37
+82064,San Giuseppe Jato,2020-10-20,61
+82065,San Mauro Castelverde,2020-10-20,0
+82066,Santa Cristina Gela,2020-10-20,
+82067,Santa Flavia,2020-10-20,6
+82068,Sciara,2020-10-20,0
+82081,Scillato,2020-10-20,0
+82069,Sclafani Bagni,2020-10-20,0
+82070,Termini Imerese,2020-10-20,28
+82071,Terrasini,2020-10-20,9
+82072,Torretta,2020-10-20,13
+82073,Trabia,2020-10-20,12
+82074,Trappeto,2020-10-20,0
+82075,Ustica,2020-10-20,
+82076,Valledolmo,2020-10-20,0
+82077,Ventimiglia di Sicilia,2020-10-20,0
+82078,Vicari,2020-10-20,0
+82079,Villabate,2020-10-20,30
+82080,Villafrati,2020-10-20,101
+82001,Alia,2020-10-21,0
+82002,Alimena,2020-10-21,12
+82003,Aliminusa,2020-10-21,3
+82004,Altavilla Milicia,2020-10-21,13
+82005,Altofonte,2020-10-21,0
+82006,Bagheria,2020-10-21,70
+82007,Balestrate,2020-10-21,6
+82008,Baucina,2020-10-21,4
+82009,Belmonte Mezzagno,2020-10-21,11
+82010,Bisacquino,2020-10-21,6
+82082,Blufi,2020-10-21,0
+82011,Bolognetta,2020-10-21,0
+82012,Bompietro,2020-10-21,2
+82013,Borgetto,2020-10-21,5
+82014,Caccamo,2020-10-21,3
+82015,Caltavuturo,2020-10-21,1
+82016,Campofelice di Fitalia,2020-10-21,0
+82017,Campofelice di Roccella,2020-10-21,12
+82018,Campofiorito,2020-10-21,0
+82019,Camporeale,2020-10-21,1
+82020,Capaci,2020-10-21,8
+82021,Carini,2020-10-21,49
+82022,Castelbuono,2020-10-21,1
+82023,Casteldaccia,2020-10-21,11
+82024,Castellana Sicula,2020-10-21,1
+82025,Castronovo di Sicilia,2020-10-21,0
+82026,Cefalà  Diana,2020-10-21,14
+82027,Cefaù,2020-10-21,10
+82028,Cerda,2020-10-21,9
+82029,Chiusa Sclafani,2020-10-21,13
+82030,Ciminna,2020-10-21,7
+82031,Cinisi,2020-10-21,7
+82032,Collesano,2020-10-21,2
+82033,Contessa Entellina,2020-10-21,7
+82034,Corleone,2020-10-21,29
+82035,Ficarazzi,2020-10-21,15
+82036,Gangi,2020-10-21,0
+82037,Geraci Siculo,2020-10-21,0
+82038,Giardinello,2020-10-21,1
+82039,Giuliana,2020-10-21,3
+82040,Godrano,2020-10-21,2
+82041,Gratteri,2020-10-21,0
+82042,Isnello,2020-10-21,0
+82043,Isola delle Femmine,2020-10-21,16
+82044,Lascari,2020-10-21,16
+82045,Lercara Friddi,2020-10-21,3
+82046,Marineo,2020-10-21,17
+82047,Mezzojuso,2020-10-21,43
+82048,Misilmeri,2020-10-21,72
+82049,Monreale,2020-10-21,0
+82050,Montelepre,2020-10-21,3
+82051,Montemaggiore Belsito,2020-10-21,50
+82052,Palazzo Adriano,2020-10-21,0
+82053,Palermo,2020-10-21,1577
+82054,Partinico,2020-10-21,70
+82055,Petralia Soprana,2020-10-21,0
+82056,Petralia Sottana,2020-10-21,1
+82057,Piana degli Albanesi,2020-10-21,
+82058,Polizzi Generosa,2020-10-21,2
+82059,Pollina,2020-10-21,0
+82060,Prizzi,2020-10-21,0
+82061,Roccamena,2020-10-21,1
+82062,Roccapalumba,2020-10-21,0
+82063,San Cipirello,2020-10-21,37
+82064,San Giuseppe Jato,2020-10-21,61
+82065,San Mauro Castelverde,2020-10-21,0
+82066,Santa Cristina Gela,2020-10-21,
+82067,Santa Flavia,2020-10-21,6
+82068,Sciara,2020-10-21,0
+82081,Scillato,2020-10-21,0
+82069,Sclafani Bagni,2020-10-21,0
+82070,Termini Imerese,2020-10-21,28
+82071,Terrasini,2020-10-21,11
+82072,Torretta,2020-10-21,20
+82073,Trabia,2020-10-21,12
+82074,Trappeto,2020-10-21,0
+82075,Ustica,2020-10-21,
+82076,Valledolmo,2020-10-21,0
+82077,Ventimiglia di Sicilia,2020-10-21,0
+82078,Vicari,2020-10-21,0
+82079,Villabate,2020-10-21,30
+82080,Villafrati,2020-10-21,90
+82001,Alia,2020-10-22,0
+82002,Alimena,2020-10-22,12
+82003,Aliminusa,2020-10-22,3
+82004,Altavilla Milicia,2020-10-22,15
+82005,Altofonte,2020-10-22,0
+82006,Bagheria,2020-10-22,100
+82007,Balestrate,2020-10-22,7
+82008,Baucina,2020-10-22,4
+82009,Belmonte Mezzagno,2020-10-22,11
+82010,Bisacquino,2020-10-22,9
+82082,Blufi,2020-10-22,0
+82011,Bolognetta,2020-10-22,0
+82012,Bompietro,2020-10-22,2
+82013,Borgetto,2020-10-22,9
+82014,Caccamo,2020-10-22,3
+82015,Caltavuturo,2020-10-22,1
+82016,Campofelice di Fitalia,2020-10-22,0
+82017,Campofelice di Roccella,2020-10-22,10
+82018,Campofiorito,2020-10-22,0
+82019,Camporeale,2020-10-22,1
+82020,Capaci,2020-10-22,8
+82021,Carini,2020-10-22,49
+82022,Castelbuono,2020-10-22,1
+82023,Casteldaccia,2020-10-22,9
+82024,Castellana Sicula,2020-10-22,1
+82025,Castronovo di Sicilia,2020-10-22,0
+82026,Cefalà  Diana,2020-10-22,14
+82027,Cefaù,2020-10-22,14
+82028,Cerda,2020-10-22,11
+82029,Chiusa Sclafani,2020-10-22,13
+82030,Ciminna,2020-10-22,7
+82031,Cinisi,2020-10-22,7
+82032,Collesano,2020-10-22,2
+82033,Contessa Entellina,2020-10-22,8
+82034,Corleone,2020-10-22,30
+82035,Ficarazzi,2020-10-22,21
+82036,Gangi,2020-10-22,0
+82037,Geraci Siculo,2020-10-22,0
+82038,Giardinello,2020-10-22,1
+82039,Giuliana,2020-10-22,3
+82040,Godrano,2020-10-22,2
+82041,Gratteri,2020-10-22,0
+82042,Isnello,2020-10-22,0
+82043,Isola delle Femmine,2020-10-22,16
+82044,Lascari,2020-10-22,16
+82045,Lercara Friddi,2020-10-22,3
+82046,Marineo,2020-10-22,17
+82047,Mezzojuso,2020-10-22,43
+82048,Misilmeri,2020-10-22,72
+82049,Monreale,2020-10-22,0
+82050,Montelepre,2020-10-22,5
+82051,Montemaggiore Belsito,2020-10-22,50
+82052,Palazzo Adriano,2020-10-22,0
+82053,Palermo,2020-10-22,1777
+82054,Partinico,2020-10-22,78
+82055,Petralia Soprana,2020-10-22,0
+82056,Petralia Sottana,2020-10-22,1
+82057,Piana degli Albanesi,2020-10-22,
+82058,Polizzi Generosa,2020-10-22,2
+82059,Pollina,2020-10-22,0
+82060,Prizzi,2020-10-22,0
+82061,Roccamena,2020-10-22,1
+82062,Roccapalumba,2020-10-22,0
+82063,San Cipirello,2020-10-22,37
+82064,San Giuseppe Jato,2020-10-22,61
+82065,San Mauro Castelverde,2020-10-22,0
+82066,Santa Cristina Gela,2020-10-22,
+82067,Santa Flavia,2020-10-22,12
+82068,Sciara,2020-10-22,0
+82081,Scillato,2020-10-22,0
+82069,Sclafani Bagni,2020-10-22,0
+82070,Termini Imerese,2020-10-22,33
+82071,Terrasini,2020-10-22,11
+82072,Torretta,2020-10-22,50
+82073,Trabia,2020-10-22,12
+82074,Trappeto,2020-10-22,0
+82075,Ustica,2020-10-22,
+82076,Valledolmo,2020-10-22,0
+82077,Ventimiglia di Sicilia,2020-10-22,0
+82078,Vicari,2020-10-22,0
+82079,Villabate,2020-10-22,29
+82080,Villafrati,2020-10-22,90
+82001,Alia,2020-10-23,0
+82002,Alimena,2020-10-23,12
+82003,Aliminusa,2020-10-23,3
+82004,Altavilla Milicia,2020-10-23,15
+82005,Altofonte,2020-10-23,0
+82006,Bagheria,2020-10-23,100
+82007,Balestrate,2020-10-23,6
+82008,Baucina,2020-10-23,4
+82009,Belmonte Mezzagno,2020-10-23,11
+82010,Bisacquino,2020-10-23,9
+82082,Blufi,2020-10-23,0
+82011,Bolognetta,2020-10-23,0
+82012,Bompietro,2020-10-23,2
+82013,Borgetto,2020-10-23,10
+82014,Caccamo,2020-10-23,3
+82015,Caltavuturo,2020-10-23,1
+82016,Campofelice di Fitalia,2020-10-23,0
+82017,Campofelice di Roccella,2020-10-23,10
+82018,Campofiorito,2020-10-23,0
+82019,Camporeale,2020-10-23,1
+82020,Capaci,2020-10-23,7
+82021,Carini,2020-10-23,51
+82022,Castelbuono,2020-10-23,1
+82023,Casteldaccia,2020-10-23,9
+82024,Castellana Sicula,2020-10-23,1
+82025,Castronovo di Sicilia,2020-10-23,0
+82026,Cefalà  Diana,2020-10-23,14
+82027,Cefaù,2020-10-23,14
+82028,Cerda,2020-10-23,11
+82029,Chiusa Sclafani,2020-10-23,13
+82030,Ciminna,2020-10-23,7
+82031,Cinisi,2020-10-23,8
+82032,Collesano,2020-10-23,2
+82033,Contessa Entellina,2020-10-23,6
+82034,Corleone,2020-10-23,29
+82035,Ficarazzi,2020-10-23,22
+82036,Gangi,2020-10-23,0
+82037,Geraci Siculo,2020-10-23,0
+82038,Giardinello,2020-10-23,1
+82039,Giuliana,2020-10-23,3
+82040,Godrano,2020-10-23,2
+82041,Gratteri,2020-10-23,0
+82042,Isnello,2020-10-23,0
+82043,Isola delle Femmine,2020-10-23,16
+82044,Lascari,2020-10-23,16
+82045,Lercara Friddi,2020-10-23,4
+82046,Marineo,2020-10-23,17
+82047,Mezzojuso,2020-10-23,43
+82048,Misilmeri,2020-10-23,72
+82049,Monreale,2020-10-23,0
+82050,Montelepre,2020-10-23,11
+82051,Montemaggiore Belsito,2020-10-23,50
+82052,Palazzo Adriano,2020-10-23,0
+82053,Palermo,2020-10-23,1881
+82054,Partinico,2020-10-23,90
+82055,Petralia Soprana,2020-10-23,0
+82056,Petralia Sottana,2020-10-23,1
+82057,Piana degli Albanesi,2020-10-23,
+82058,Polizzi Generosa,2020-10-23,2
+82059,Pollina,2020-10-23,0
+82060,Prizzi,2020-10-23,0
+82061,Roccamena,2020-10-23,1
+82062,Roccapalumba,2020-10-23,0
+82063,San Cipirello,2020-10-23,36
+82064,San Giuseppe Jato,2020-10-23,58
+82065,San Mauro Castelverde,2020-10-23,0
+82066,Santa Cristina Gela,2020-10-23,
+82067,Santa Flavia,2020-10-23,13
+82068,Sciara,2020-10-23,0
+82081,Scillato,2020-10-23,0
+82069,Sclafani Bagni,2020-10-23,0
+82070,Termini Imerese,2020-10-23,33
+82071,Terrasini,2020-10-23,11
+82072,Torretta,2020-10-23,49
+82073,Trabia,2020-10-23,12
+82074,Trappeto,2020-10-23,0
+82075,Ustica,2020-10-23,
+82076,Valledolmo,2020-10-23,0
+82077,Ventimiglia di Sicilia,2020-10-23,0
+82078,Vicari,2020-10-23,2
+82079,Villabate,2020-10-23,29
+82080,Villafrati,2020-10-23,90
+82001,Alia,2020-10-24,0
+82002,Alimena,2020-10-24,14
+82003,Aliminusa,2020-10-24,3
+82004,Altavilla Milicia,2020-10-24,15
+82005,Altofonte,2020-10-24,29
+82006,Bagheria,2020-10-24,100
+82007,Balestrate,2020-10-24,6
+82008,Baucina,2020-10-24,4
+82009,Belmonte Mezzagno,2020-10-24,11
+82010,Bisacquino,2020-10-24,9
+82082,Blufi,2020-10-24,0
+82011,Bolognetta,2020-10-24,1
+82012,Bompietro,2020-10-24,2
+82013,Borgetto,2020-10-24,10
+82014,Caccamo,2020-10-24,3
+82015,Caltavuturo,2020-10-24,1
+82016,Campofelice di Fitalia,2020-10-24,0
+82017,Campofelice di Roccella,2020-10-24,10
+82018,Campofiorito,2020-10-24,0
+82019,Camporeale,2020-10-24,1
+82020,Capaci,2020-10-24,7
+82021,Carini,2020-10-24,51
+82022,Castelbuono,2020-10-24,1
+82023,Casteldaccia,2020-10-24,9
+82024,Castellana Sicula,2020-10-24,1
+82025,Castronovo di Sicilia,2020-10-24,0
+82026,Cefalà  Diana,2020-10-24,14
+82027,Cefaù,2020-10-24,14
+82028,Cerda,2020-10-24,12
+82029,Chiusa Sclafani,2020-10-24,13
+82030,Ciminna,2020-10-24,7
+82031,Cinisi,2020-10-24,8
+82032,Collesano,2020-10-24,2
+82033,Contessa Entellina,2020-10-24,6
+82034,Corleone,2020-10-24,29
+82035,Ficarazzi,2020-10-24,22
+82036,Gangi,2020-10-24,0
+82037,Geraci Siculo,2020-10-24,0
+82038,Giardinello,2020-10-24,1
+82039,Giuliana,2020-10-24,3
+82040,Godrano,2020-10-24,2
+82041,Gratteri,2020-10-24,0
+82042,Isnello,2020-10-24,0
+82043,Isola delle Femmine,2020-10-24,16
+82044,Lascari,2020-10-24,16
+82045,Lercara Friddi,2020-10-24,3
+82046,Marineo,2020-10-24,17
+82047,Mezzojuso,2020-10-24,43
+82048,Misilmeri,2020-10-24,75
+82049,Monreale,2020-10-24,32
+82050,Montelepre,2020-10-24,11
+82051,Montemaggiore Belsito,2020-10-24,104
+82052,Palazzo Adriano,2020-10-24,0
+82053,Palermo,2020-10-24,1967
+82054,Partinico,2020-10-24,90
+82055,Petralia Soprana,2020-10-24,0
+82056,Petralia Sottana,2020-10-24,0
+82057,Piana degli Albanesi,2020-10-24,
+82058,Polizzi Generosa,2020-10-24,2
+82059,Pollina,2020-10-24,0
+82060,Prizzi,2020-10-24,0
+82061,Roccamena,2020-10-24,1
+82062,Roccapalumba,2020-10-24,0
+82063,San Cipirello,2020-10-24,36
+82064,San Giuseppe Jato,2020-10-24,58
+82065,San Mauro Castelverde,2020-10-24,0
+82066,Santa Cristina Gela,2020-10-24,
+82067,Santa Flavia,2020-10-24,13
+82068,Sciara,2020-10-24,0
+82081,Scillato,2020-10-24,0
+82069,Sclafani Bagni,2020-10-24,0
+82070,Termini Imerese,2020-10-24,46
+82071,Terrasini,2020-10-24,11
+82072,Torretta,2020-10-24,49
+82073,Trabia,2020-10-24,12
+82074,Trappeto,2020-10-24,0
+82075,Ustica,2020-10-24,
+82076,Valledolmo,2020-10-24,0
+82077,Ventimiglia di Sicilia,2020-10-24,0
+82078,Vicari,2020-10-24,2
+82079,Villabate,2020-10-24,29
+82080,Villafrati,2020-10-24,90
+82001,Alia,2020-10-26,0
+82002,Alimena,2020-10-26,20
+82003,Aliminusa,2020-10-26,4
+82004,Altavilla Milicia,2020-10-26,17
+82005,Altofonte,2020-10-26,29
+82006,Bagheria,2020-10-26,101
+82007,Balestrate,2020-10-26,6
+82008,Baucina,2020-10-26,4
+82009,Belmonte Mezzagno,2020-10-26,11
+82010,Bisacquino,2020-10-26,23
+82082,Blufi,2020-10-26,0
+82011,Bolognetta,2020-10-26,1
+82012,Bompietro,2020-10-26,2
+82013,Borgetto,2020-10-26,10
+82014,Caccamo,2020-10-26,3
+82015,Caltavuturo,2020-10-26,1
+82016,Campofelice di Fitalia,2020-10-26,0
+82017,Campofelice di Roccella,2020-10-26,6
+82018,Campofiorito,2020-10-26,0
+82019,Camporeale,2020-10-26,1
+82020,Capaci,2020-10-26,12
+82021,Carini,2020-10-26,52
+82022,Castelbuono,2020-10-26,1
+82023,Casteldaccia,2020-10-26,11
+82024,Castellana Sicula,2020-10-26,1
+82025,Castronovo di Sicilia,2020-10-26,1
+82026,Cefalà  Diana,2020-10-26,14
+82027,Cefaù,2020-10-26,16
+82028,Cerda,2020-10-26,14
+82029,Chiusa Sclafani,2020-10-26,13
+82030,Ciminna,2020-10-26,7
+82031,Cinisi,2020-10-26,6
+82032,Collesano,2020-10-26,2
+82033,Contessa Entellina,2020-10-26,14
+82034,Corleone,2020-10-26,32
+82035,Ficarazzi,2020-10-26,39
+82036,Gangi,2020-10-26,0
+82037,Geraci Siculo,2020-10-26,0
+82038,Giardinello,2020-10-26,1
+82039,Giuliana,2020-10-26,3
+82040,Godrano,2020-10-26,2
+82041,Gratteri,2020-10-26,0
+82042,Isnello,2020-10-26,0
+82043,Isola delle Femmine,2020-10-26,23
+82044,Lascari,2020-10-26,19
+82045,Lercara Friddi,2020-10-26,5
+82046,Marineo,2020-10-26,17
+82047,Mezzojuso,2020-10-26,43
+82048,Misilmeri,2020-10-26,75
+82049,Monreale,2020-10-26,32
+82050,Montelepre,2020-10-26,11
+82051,Montemaggiore Belsito,2020-10-26,104
+82052,Palazzo Adriano,2020-10-26,0
+82053,Palermo,2020-10-26,2180
+82054,Partinico,2020-10-26,90
+82055,Petralia Soprana,2020-10-26,1
+82056,Petralia Sottana,2020-10-26,0
+82057,Piana degli Albanesi,2020-10-26,
+82058,Polizzi Generosa,2020-10-26,0
+82059,Pollina,2020-10-26,1
+82060,Prizzi,2020-10-26,0
+82061,Roccamena,2020-10-26,3
+82062,Roccapalumba,2020-10-26,0
+82063,San Cipirello,2020-10-26,36
+82064,San Giuseppe Jato,2020-10-26,58
+82065,San Mauro Castelverde,2020-10-26,1
+82066,Santa Cristina Gela,2020-10-26,
+82067,Santa Flavia,2020-10-26,17
+82068,Sciara,2020-10-26,0
+82081,Scillato,2020-10-26,0
+82069,Sclafani Bagni,2020-10-26,0
+82070,Termini Imerese,2020-10-26,48
+82071,Terrasini,2020-10-26,15
+82072,Torretta,2020-10-26,55
+82073,Trabia,2020-10-26,12
+82074,Trappeto,2020-10-26,0
+82075,Ustica,2020-10-26,
+82076,Valledolmo,2020-10-26,0
+82077,Ventimiglia di Sicilia,2020-10-26,0
+82078,Vicari,2020-10-26,4
+82079,Villabate,2020-10-26,34
+82080,Villafrati,2020-10-26,90
