@@ -13,13 +13,13 @@
 
 ## Introduzione
 
-A partire dal 28/ottobre/2020 nel [Canale Telegram](https://t.me/ProtezioneCivilePalermo) della _**Protezione Civile di Palermo**_, rendono disponibile il seguente link `http://tiny.cc/CovidPalermo_27Ott` ovvero un PDF con i dati sui Comuni:
+A partire dal 28/ottobre/2020 nel [Canale Telegram](https://t.me/ProtezioneCivilePalermo) della _**Protezione Civile di Palermo**_, rendono disponibile il seguente link `http://tiny.cc/CovidPalermo_27Ott` ovvero un **PDF** con i dati sui Comuni:
 
 ![](imgs/img_01.png)
 
 ## Perché questo repository
 
-Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce solo i PDF, in questo repository li raccoglieremo e estrarremo i dati per renderli usufruibili in forma di testo strutturato, i classici file CSV.
+Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce solo i **PDF**, in questo repository li raccoglieremo e estrarremo i dati per renderli usufruibili in forma di testo strutturato, i classici file CSV.
 
 ## Struttura repository
 
@@ -32,7 +32,7 @@ covidComuniSiclia/
 |   ├── rawdata/
 |       ├── 20201026-Covid_PA_20201026.pdf
 |       ├── 20201102-Covid_PA_201102.pdf
-|   ├── imgs/
+├── imgs/
 ```
 
 ## Nome file CSV
