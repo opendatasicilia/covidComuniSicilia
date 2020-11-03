@@ -6,6 +6,7 @@
   - [Introduzione](#introduzione)
   - [Perché questo repository](#perché-questo-repository)
   - [Struttura repository](#struttura-repository)
+  - [Nome file CSV](#nome-file-csv)
   - [Struttura file CSV](#struttura-file-csv)
 
 <!-- /TOC -->
@@ -34,13 +35,19 @@ covidComuniSiclia/
 |   ├── imgs/
 ```
 
+## Nome file CSV
+
+nome file | esempio | formato file
+----------|---------|------------
+YYYYMMDD-Covid_PA|20201026-Covid_PA.csv| CSV
+
 ## Struttura file CSV
 
-Nome campo    | descrizione | formato | esempio
+nome campo    | descrizione | formato | esempio
 --------------|-------------|---------|-------
 _CodiceISTAT_   | Codice ISTAT numerico | numerico | 82001
 _COMUNE_        | Denominazione Comune | Testo | Alia
-_data_          | Data| testo | 2020-10-19
+_data_          | Data| YYYY-MM-DD | 2020-10-19
 _positivi_      | Numero di Positivi | numerico | 3
 
 --
