@@ -4,7 +4,7 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-# rimuovi da output CSV di tabula
+# rimuovi colonne inutili da output CSV di tabula
 mlr --csv -N cat \
   then remove-empty-columns \
   then cut -x -r -f "[0-9]{2}" \
