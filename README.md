@@ -36,10 +36,10 @@ covidComuniSicilia/
 
 ## Struttura file CSV
 
-Nome campo    | descrizione | formato | esempio
+nome campo    | descrizione | formato | esempio
 --------------|-------------|---------|-------
-CodiceISTAT   | Codice ISTAT numerico | numerico | 82001
-COMUNE        | Denominazione Comune | Testo | Alia
+CodiceISTAT   | Codice ISTAT | numerico | 82001
+COMUNE        | Denominazione Comune | testo | Alia
 data          | Data| testo | 2020-10-19
 positivi      | Numero di Positivi | numerico | 3
 
