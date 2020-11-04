@@ -19,9 +19,11 @@ La  _**Protezione Civile di Palermo**_ a partire dal 28/ottobre/2020,  rende dis
 
 ## Perché questo repository
 
-Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce solo i **PDF**, in questo repository li raccoglieremo e estrarremo i dati per renderli usufruibili in forma di testo strutturato, i classici file **CSV**.
+Come detto nell'introduzione, la _**Protezione Civile di Palermo**_ fornisce solo i **PDF**, in questo repository li raccoglieremo, estrarremo e ristruttureremo i dati per renderli usufruibili in forma di testo strutturato, i classici file **CSV**.
 
 ## Struttura repository
+
+La struttura di base è divisa per codice ISTAT Comune (082053 Città Metropolitana di Palermo). E poi all'interno è suddivisa in _dati grezzi_ e _output_.
 
 ```
 covidComuniSiclia/
