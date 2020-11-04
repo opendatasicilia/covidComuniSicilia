@@ -29,10 +29,16 @@ covidComuniSiclia/
 ├── 082053/
 │   ├── output/
 |       ├── 20201026-Covid_PA.csv
+|       ├── 20201102-Covid_PA.csv
 |   ├── rawdata/
 |       ├── 20201026-Covid_PA_20201026.pdf
 |       ├── 20201102-Covid_PA_201102.pdf
+|   ├── script/
+|       ├── 20201102.sh
+|       ├── tabula-20201102-Covid_PA_201102.sh
 ├── imgs/
+├── risorse/
+|   ├── codidciIstatComuni.csv
 ```
 
 ## Nome file CSV
