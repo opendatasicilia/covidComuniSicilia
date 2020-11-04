@@ -14,4 +14,9 @@ mlr --csv -N cat \
 mlr -I --csv reshape -r "/" -o item,value \
   then rename item,data,value,positivi \
   then put -S '$data=sub($data,"([^/]+)/([^/]+)","2020-\2-\1");$data = strftime(strptime($data, "%Y-%m-%d"),"%Y-%m-%d")' \
-  then sort -f data,COMUNE "$folder"/../output/20201102-Covid_PA.csv
+  then sort -f data,COMUNE then clean-whitespace "$folder"/../output/20201102-Covid_PA.csv
+
+# assegna codici ISTAT ai comuni
+mlr --csv join --ul -j COMUNE -f "$folder"/../output/20201102-Covid_PA.csv then unsparsify then reorder -f CodiceISTAT "$folder"/../../risorse/codidciIstatComuni.csv >"$folder"/../output/tmp.csv
+
+mv "$folder"/../output/tmp.csv "$folder"/../output/20201102-Covid_PA.csv
