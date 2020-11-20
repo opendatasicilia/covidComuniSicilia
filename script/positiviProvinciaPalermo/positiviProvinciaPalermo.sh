@@ -24,5 +24,6 @@ if [ $code -eq 200 ]; then
   mlr --csv -N filter -S '$1=~"^(8|Pr)"' rawdata/positiviProvinciaPalermo.csv >"$folder"/processing/positiviProvinciaPalermo.csv
   sed -i -r 's/(\.|…)+//g' "$folder"/processing/positiviProvinciaPalermo.csv
   mv "$folder"/processing/positiviProvinciaPalermo.csv "$folder"/../../082053/output/positiviProvinciaPalermo.csv
+  mlr --csv remove-empty-columns then reshape -r "-" -o item,value then sort -f "Pro Com",item then rename item,data,value,positivi "$folder"/../../082053/output/positiviProvinciaPalermo.csv >"$folder"/../../082053/output/positiviProvinciaPalermoLong.csv
 fi
 
