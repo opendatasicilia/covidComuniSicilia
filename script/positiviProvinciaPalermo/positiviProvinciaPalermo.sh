@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### requisiti ###
-# visidata https://github.com/saulpw/visidata
+# csvkit https://csvkit.readthedocs.io/en/latest/
 # Miller https://github.com/johnkerl/miller
 ### requisiti ###
 
