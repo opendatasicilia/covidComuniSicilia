@@ -23,5 +23,6 @@ if [ $code -eq 200 ]; then
   in2csv -I --sheet tavola_pop_res01 "$folder"/rawdata/positiviProvinciaPalermo.xlsx >"$folder"/rawdata/positiviProvinciaPalermo.csv
   mlr --csv -N filter -S '$1=~"^(8|Pr)"' rawdata/positiviProvinciaPalermo.csv >"$folder"/processing/positiviProvinciaPalermo.csv
   sed -i -r 's/(\.|…)+//g' "$folder"/processing/positiviProvinciaPalermo.csv
+  mv "$folder"/processing/positiviProvinciaPalermo.csv "$folder"/../../082053/output/positiviProvinciaPalermo.csv
 fi
 
