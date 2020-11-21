@@ -4,12 +4,11 @@
 
 - [Casi Positivi di COVID-19 Comuni Sicilia](#casi-positivi-di-covid-19-comuni-sicilia)
   - [Introduzione](#introduzione)
+  - [Alcuni output](#alcuni-output)
   - [Perché questo repository](#perché-questo-repository)
   - [Struttura repository](#struttura-repository)
   - [File CSV](#file-csv)
   - [Struttura file CSV](#struttura-file-csv)
-- [Mappe](#mappe)
-  - [Provincia di Palermo](#provincia-di-palermo)
 
 <!-- /TOC -->
 
@@ -18,6 +17,10 @@
 La  _**Protezione Civile di Palermo**_ a partire dal 28/ottobre/2020,  rende disponibile, nel [Canale Telegram](https://t.me/ProtezioneCivilePalermo), il seguente link `http://tiny.cc/CovidPalermo_27Ott` dove è possibile raggiungere un **PDF** _**COVID-19: LA SITUAZIONE NEI COMUNI DELLA CITTÀ METROPOLITANA DI PALERMO**_:
 
 ![](imgs/img_01.png)
+
+## Alcuni output
+
+- le [mappe](https://opendatasicilia.github.io/covidComuniSicilia/web) (al momento soltanto quella della provinca di Palermo)
 
 ## Perché questo repository
 
@@ -63,10 +66,3 @@ _positivi_      | Numero di Positivi | numerico (var) | 3
 --
 
 **Fonte:** Elaborazioni Ufficio Statistica del Comune di Palermo su dati ASP Palermo
-
-# Mappe
-
-## Provincia di Palermo
-
-<iframe title="COVID-19, provincia di Palermo" aria-label="Map" id="datawrapper-chart-Ed389" src="https://datawrapper.dwcdn.net/Ed389/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="516"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
