@@ -7,5 +7,5 @@ include:
   - web.md
 remote_theme: "pages-themes/primer"
 title: COVID-19, dati comuni siciliani
-description: un repository dove raccogliere dati sui comuni siciliali
+description: un repository dove raccogliere dati sui comuni siciliali, che verranno resi pubblici
 lang: it-IT
