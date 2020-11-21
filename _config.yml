@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
+  - web.md
 remote_theme: "pages-themes/primer"
 title: COVID-19, dati comuni siciliani
 description: un repository dove raccogliere dati sui comuni siciliali
