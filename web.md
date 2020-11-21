@@ -15,3 +15,7 @@
 ---
 
 **Fonte:** [Elaborazioni Ufficio Statistica del Comune di Palermo su dati ASP Palermo](https://www.comune.palermo.it/statistica.php?sel=9&per=2020).
+
+# Note di utilizzo
+
+Puoi usare liberamente questi elaborati, ma devi citare **OpenDataSicilia** come fonte, inserendo questo URL `https://groups.google.com/forum/#!categories/opendatasicilia`. La licenza è [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
