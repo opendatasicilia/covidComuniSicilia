@@ -21,6 +21,7 @@ jobs:
         cd ~/bin
         chmod +x mlr
         sudo apt-get install python3-setuptools
+        pip3 install wheel
         pip3 install csvkit
     - name: scarica i dati
       run: |-
