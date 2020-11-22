@@ -1,7 +1,7 @@
 name: scarica dati positivi Provincia Palermo
 
-on:
-#  push:
+n:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '0 21 */1 * *'
@@ -14,12 +14,13 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa visidata
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa csvkit
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
+        sudo apt-get install python3-setuptools
         pip3 install csvkit
     - name: scarica i dati
       run: |-
