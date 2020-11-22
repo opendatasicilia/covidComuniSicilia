@@ -1,6 +1,6 @@
 name: scarica dati positivi Provincia Palermo
 
-n:
+on:
   push:
   repository_dispatch:
   schedule:
