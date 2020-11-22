@@ -26,6 +26,7 @@ jobs:
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
+        export PATH=$PATH:~/.local/bin
         cd ./script/positiviProvinciaPalermo/
         chmod +x ./positiviProvinciaPalermo.sh
         ./positiviProvinciaPalermo.sh
