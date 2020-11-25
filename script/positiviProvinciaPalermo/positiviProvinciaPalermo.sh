@@ -12,7 +12,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
-URL="https://www.comune.palermo.it/js/server/uploads/statistica/_20112020100242.xlsx"
+URL="https://www.comune.palermo.it/js/server/uploads/statistica/_25112020105310.xlsx"
 
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
