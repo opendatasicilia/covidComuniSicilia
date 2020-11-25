@@ -1,4 +1,4 @@
-Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
+Pro Com,Distretto,COMUNE,Residenti al 31/12/2019,data,positivi
 82001,Lercara Friddi,Alia,3510,2020-10-19,0
 82001,Lercara Friddi,Alia,3510,2020-10-20,0
 82001,Lercara Friddi,Alia,3510,2020-10-21,0
@@ -26,6 +26,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82001,Lercara Friddi,Alia,3510,2020-11-17,19
 82001,Lercara Friddi,Alia,3510,2020-11-18,19
 82001,Lercara Friddi,Alia,3510,2020-11-19,27
+82001,Lercara Friddi,Alia,3510,2020-11-20,27
+82001,Lercara Friddi,Alia,3510,2020-11-22,27
+82001,Lercara Friddi,Alia,3510,2020-11-23,27
+82001,Lercara Friddi,Alia,3510,2020-11-24,27
 82002,Petralia Sottana,Alimena,1915,2020-10-19,3
 82002,Petralia Sottana,Alimena,1915,2020-10-20,5
 82002,Petralia Sottana,Alimena,1915,2020-10-21,12
@@ -53,6 +57,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82002,Petralia Sottana,Alimena,1915,2020-11-17,4
 82002,Petralia Sottana,Alimena,1915,2020-11-18,4
 82002,Petralia Sottana,Alimena,1915,2020-11-19,2
+82002,Petralia Sottana,Alimena,1915,2020-11-20,2
+82002,Petralia Sottana,Alimena,1915,2020-11-22,1
+82002,Petralia Sottana,Alimena,1915,2020-11-23,1
+82002,Petralia Sottana,Alimena,1915,2020-11-24,1
 82003,Termini Imerese,Aliminusa,1138,2020-10-19,3
 82003,Termini Imerese,Aliminusa,1138,2020-10-20,3
 82003,Termini Imerese,Aliminusa,1138,2020-10-21,3
@@ -80,6 +88,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82003,Termini Imerese,Aliminusa,1138,2020-11-17,5
 82003,Termini Imerese,Aliminusa,1138,2020-11-18,5
 82003,Termini Imerese,Aliminusa,1138,2020-11-19,5
+82003,Termini Imerese,Aliminusa,1138,2020-11-20,5
+82003,Termini Imerese,Aliminusa,1138,2020-11-22,5
+82003,Termini Imerese,Aliminusa,1138,2020-11-23,5
+82003,Termini Imerese,Aliminusa,1138,2020-11-24,5
 82004,Bagheria,Altavilla Milicia,8376,2020-10-19,13
 82004,Bagheria,Altavilla Milicia,8376,2020-10-20,13
 82004,Bagheria,Altavilla Milicia,8376,2020-10-21,13
@@ -107,6 +119,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82004,Bagheria,Altavilla Milicia,8376,2020-11-17,64
 82004,Bagheria,Altavilla Milicia,8376,2020-11-18,45
 82004,Bagheria,Altavilla Milicia,8376,2020-11-19,42
+82004,Bagheria,Altavilla Milicia,8376,2020-11-20,42
+82004,Bagheria,Altavilla Milicia,8376,2020-11-22,43
+82004,Bagheria,Altavilla Milicia,8376,2020-11-23,43
+82004,Bagheria,Altavilla Milicia,8376,2020-11-24,46
 82005,Palermo,Altofonte,10015,2020-10-19,3
 82005,Palermo,Altofonte,10015,2020-10-20,0
 82005,Palermo,Altofonte,10015,2020-10-21,0
@@ -134,6 +150,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82005,Palermo,Altofonte,10015,2020-11-17,69
 82005,Palermo,Altofonte,10015,2020-11-18,69
 82005,Palermo,Altofonte,10015,2020-11-19,69
+82005,Palermo,Altofonte,10015,2020-11-20,73
+82005,Palermo,Altofonte,10015,2020-11-22,72
+82005,Palermo,Altofonte,10015,2020-11-23,72
+82005,Palermo,Altofonte,10015,2020-11-24,72
 82006,Bagheria,Bagheria,54620,2020-10-19,70
 82006,Bagheria,Bagheria,54620,2020-10-20,70
 82006,Bagheria,Bagheria,54620,2020-10-21,70
@@ -161,6 +181,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82006,Bagheria,Bagheria,54620,2020-11-17,311
 82006,Bagheria,Bagheria,54620,2020-11-18,333
 82006,Bagheria,Bagheria,54620,2020-11-19,349
+82006,Bagheria,Bagheria,54620,2020-11-20,381
+82006,Bagheria,Bagheria,54620,2020-11-22,402
+82006,Bagheria,Bagheria,54620,2020-11-23,402
+82006,Bagheria,Bagheria,54620,2020-11-24,411
 82007,Partinico,Balestrate,6415,2020-10-19,1
 82007,Partinico,Balestrate,6415,2020-10-20,3
 82007,Partinico,Balestrate,6415,2020-10-21,6
@@ -188,6 +212,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82007,Partinico,Balestrate,6415,2020-11-17,10
 82007,Partinico,Balestrate,6415,2020-11-18,10
 82007,Partinico,Balestrate,6415,2020-11-19,16
+82007,Partinico,Balestrate,6415,2020-11-20,16
+82007,Partinico,Balestrate,6415,2020-11-22,16
+82007,Partinico,Balestrate,6415,2020-11-23,16
+82007,Partinico,Balestrate,6415,2020-11-24,16
 82008,Misilmeri,Baucina,1915,2020-10-19,4
 82008,Misilmeri,Baucina,1915,2020-10-20,4
 82008,Misilmeri,Baucina,1915,2020-10-21,4
@@ -215,6 +243,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82008,Misilmeri,Baucina,1915,2020-11-17,13
 82008,Misilmeri,Baucina,1915,2020-11-18,13
 82008,Misilmeri,Baucina,1915,2020-11-19,14
+82008,Misilmeri,Baucina,1915,2020-11-20,14
+82008,Misilmeri,Baucina,1915,2020-11-22,14
+82008,Misilmeri,Baucina,1915,2020-11-23,14
+82008,Misilmeri,Baucina,1915,2020-11-24,14
 82009,Palermo,Belmonte Mezzagno,11144,2020-10-19,10
 82009,Palermo,Belmonte Mezzagno,11144,2020-10-20,11
 82009,Palermo,Belmonte Mezzagno,11144,2020-10-21,11
@@ -242,6 +274,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82009,Palermo,Belmonte Mezzagno,11144,2020-11-17,19
 82009,Palermo,Belmonte Mezzagno,11144,2020-11-18,19
 82009,Palermo,Belmonte Mezzagno,11144,2020-11-19,54
+82009,Palermo,Belmonte Mezzagno,11144,2020-11-20,54
+82009,Palermo,Belmonte Mezzagno,11144,2020-11-22,54
+82009,Palermo,Belmonte Mezzagno,11144,2020-11-23,54
+82009,Palermo,Belmonte Mezzagno,11144,2020-11-24,54
 82010,Corleone,Bisacquino,4321,2020-10-19,4
 82010,Corleone,Bisacquino,4321,2020-10-20,5
 82010,Corleone,Bisacquino,4321,2020-10-21,6
@@ -269,6 +305,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82010,Corleone,Bisacquino,4321,2020-11-17,60
 82010,Corleone,Bisacquino,4321,2020-11-18,63
 82010,Corleone,Bisacquino,4321,2020-11-19,45
+82010,Corleone,Bisacquino,4321,2020-11-20,45
+82010,Corleone,Bisacquino,4321,2020-11-22,45
+82010,Corleone,Bisacquino,4321,2020-11-23,55
+82010,Corleone,Bisacquino,4321,2020-11-24,55
 82011,Misilmeri,Bolognetta,4138,2020-10-19,0
 82011,Misilmeri,Bolognetta,4138,2020-10-20,0
 82011,Misilmeri,Bolognetta,4138,2020-10-21,0
@@ -296,6 +336,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82011,Misilmeri,Bolognetta,4138,2020-11-17,66
 82011,Misilmeri,Bolognetta,4138,2020-11-18,66
 82011,Misilmeri,Bolognetta,4138,2020-11-19,64
+82011,Misilmeri,Bolognetta,4138,2020-11-20,64
+82011,Misilmeri,Bolognetta,4138,2020-11-22,81
+82011,Misilmeri,Bolognetta,4138,2020-11-23,81
+82011,Misilmeri,Bolognetta,4138,2020-11-24,69
 82012,Petralia Sottana,Bompietro,1295,2020-10-19,0
 82012,Petralia Sottana,Bompietro,1295,2020-10-20,0
 82012,Petralia Sottana,Bompietro,1295,2020-10-21,2
@@ -323,6 +367,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82012,Petralia Sottana,Bompietro,1295,2020-11-17,14
 82012,Petralia Sottana,Bompietro,1295,2020-11-18,13
 82012,Petralia Sottana,Bompietro,1295,2020-11-19,13
+82012,Petralia Sottana,Bompietro,1295,2020-11-20,14
+82012,Petralia Sottana,Bompietro,1295,2020-11-22,25
+82012,Petralia Sottana,Bompietro,1295,2020-11-23,24
+82012,Petralia Sottana,Bompietro,1295,2020-11-24,26
 82013,Partinico,Borgetto,7338,2020-10-19,5
 82013,Partinico,Borgetto,7338,2020-10-20,5
 82013,Partinico,Borgetto,7338,2020-10-21,5
@@ -350,6 +398,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82013,Partinico,Borgetto,7338,2020-11-17,21
 82013,Partinico,Borgetto,7338,2020-11-18,21
 82013,Partinico,Borgetto,7338,2020-11-19,24
+82013,Partinico,Borgetto,7338,2020-11-20,24
+82013,Partinico,Borgetto,7338,2020-11-22,24
+82013,Partinico,Borgetto,7338,2020-11-23,26
+82013,Partinico,Borgetto,7338,2020-11-24,26
 82014,Termini Imerese,Caccamo,7997,2020-10-19,3
 82014,Termini Imerese,Caccamo,7997,2020-10-20,3
 82014,Termini Imerese,Caccamo,7997,2020-10-21,3
@@ -377,6 +429,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82014,Termini Imerese,Caccamo,7997,2020-11-17,19
 82014,Termini Imerese,Caccamo,7997,2020-11-18,20
 82014,Termini Imerese,Caccamo,7997,2020-11-19,20
+82014,Termini Imerese,Caccamo,7997,2020-11-20,20
+82014,Termini Imerese,Caccamo,7997,2020-11-22,20
+82014,Termini Imerese,Caccamo,7997,2020-11-23,20
+82014,Termini Imerese,Caccamo,7997,2020-11-24,20
 82015,Termini Imerese,Caltavuturo,3768,2020-10-19,1
 82015,Termini Imerese,Caltavuturo,3768,2020-10-20,1
 82015,Termini Imerese,Caltavuturo,3768,2020-10-21,1
@@ -404,6 +460,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82015,Termini Imerese,Caltavuturo,3768,2020-11-17,1
 82015,Termini Imerese,Caltavuturo,3768,2020-11-18,1
 82015,Termini Imerese,Caltavuturo,3768,2020-11-19,1
+82015,Termini Imerese,Caltavuturo,3768,2020-11-20,1
+82015,Termini Imerese,Caltavuturo,3768,2020-11-22,1
+82015,Termini Imerese,Caltavuturo,3768,2020-11-23,1
+82015,Termini Imerese,Caltavuturo,3768,2020-11-24,1
 82016,Misilmeri,Campofelice di Fitalia,473,2020-10-19,0
 82016,Misilmeri,Campofelice di Fitalia,473,2020-10-20,0
 82016,Misilmeri,Campofelice di Fitalia,473,2020-10-21,0
@@ -431,6 +491,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82016,Misilmeri,Campofelice di Fitalia,473,2020-11-17,0
 82016,Misilmeri,Campofelice di Fitalia,473,2020-11-18,0
 82016,Misilmeri,Campofelice di Fitalia,473,2020-11-19,0
+82016,Misilmeri,Campofelice di Fitalia,473,2020-11-20,0
+82016,Misilmeri,Campofelice di Fitalia,473,2020-11-22,0
+82016,Misilmeri,Campofelice di Fitalia,473,2020-11-23,0
+82016,Misilmeri,Campofelice di Fitalia,473,2020-11-24,0
 82017,Cefalù,Campofelice di Roccella,7667,2020-10-19,11
 82017,Cefalù,Campofelice di Roccella,7667,2020-10-20,12
 82017,Cefalù,Campofelice di Roccella,7667,2020-10-21,12
@@ -458,6 +522,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82017,Cefalù,Campofelice di Roccella,7667,2020-11-17,11
 82017,Cefalù,Campofelice di Roccella,7667,2020-11-18,11
 82017,Cefalù,Campofelice di Roccella,7667,2020-11-19,21
+82017,Cefalù,Campofelice di Roccella,7667,2020-11-20,19
+82017,Cefalù,Campofelice di Roccella,7667,2020-11-22,17
+82017,Cefalù,Campofelice di Roccella,7667,2020-11-23,17
+82017,Cefalù,Campofelice di Roccella,7667,2020-11-24,17
 82018,Corleone,Campofiorito,1209,2020-10-19,0
 82018,Corleone,Campofiorito,1209,2020-10-20,0
 82018,Corleone,Campofiorito,1209,2020-10-21,0
@@ -485,6 +553,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82018,Corleone,Campofiorito,1209,2020-11-17,11
 82018,Corleone,Campofiorito,1209,2020-11-18,14
 82018,Corleone,Campofiorito,1209,2020-11-19,14
+82018,Corleone,Campofiorito,1209,2020-11-20,14
+82018,Corleone,Campofiorito,1209,2020-11-22,14
+82018,Corleone,Campofiorito,1209,2020-11-23,18
+82018,Corleone,Campofiorito,1209,2020-11-24,18
 82019,Partinico,Camporeale,3135,2020-10-19,1
 82019,Partinico,Camporeale,3135,2020-10-20,1
 82019,Partinico,Camporeale,3135,2020-10-21,1
@@ -512,6 +584,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82019,Partinico,Camporeale,3135,2020-11-17,12
 82019,Partinico,Camporeale,3135,2020-11-18,12
 82019,Partinico,Camporeale,3135,2020-11-19,9
+82019,Partinico,Camporeale,3135,2020-11-20,9
+82019,Partinico,Camporeale,3135,2020-11-22,9
+82019,Partinico,Camporeale,3135,2020-11-23,11
+82019,Partinico,Camporeale,3135,2020-11-24,11
 82020,Carini,Capaci,11577,2020-10-19,6
 82020,Carini,Capaci,11577,2020-10-20,8
 82020,Carini,Capaci,11577,2020-10-21,8
@@ -539,6 +615,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82020,Carini,Capaci,11577,2020-11-17,16
 82020,Carini,Capaci,11577,2020-11-18,16
 82020,Carini,Capaci,11577,2020-11-19,16
+82020,Carini,Capaci,11577,2020-11-20,16
+82020,Carini,Capaci,11577,2020-11-22,16
+82020,Carini,Capaci,11577,2020-11-23,16
+82020,Carini,Capaci,11577,2020-11-24,12
 82021,Carini,Carini,39185,2020-10-19,32
 82021,Carini,Carini,39185,2020-10-20,45
 82021,Carini,Carini,39185,2020-10-21,49
@@ -566,6 +646,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82021,Carini,Carini,39185,2020-11-17,92
 82021,Carini,Carini,39185,2020-11-18,92
 82021,Carini,Carini,39185,2020-11-19,92
+82021,Carini,Carini,39185,2020-11-20,92
+82021,Carini,Carini,39185,2020-11-22,92
+82021,Carini,Carini,39185,2020-11-23,92
+82021,Carini,Carini,39185,2020-11-24,104
 82022,Cefalù,Castelbuono,8485,2020-10-19,1
 82022,Cefalù,Castelbuono,8485,2020-10-20,1
 82022,Cefalù,Castelbuono,8485,2020-10-21,1
@@ -593,6 +677,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82022,Cefalù,Castelbuono,8485,2020-11-17,11
 82022,Cefalù,Castelbuono,8485,2020-11-18,11
 82022,Cefalù,Castelbuono,8485,2020-11-19,11
+82022,Cefalù,Castelbuono,8485,2020-11-20,52
+82022,Cefalù,Castelbuono,8485,2020-11-22,94
+82022,Cefalù,Castelbuono,8485,2020-11-23,94
+82022,Cefalù,Castelbuono,8485,2020-11-24,109
 82023,Bagheria,Casteldaccia,11682,2020-10-19,11
 82023,Bagheria,Casteldaccia,11682,2020-10-20,11
 82023,Bagheria,Casteldaccia,11682,2020-10-21,11
@@ -620,6 +708,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82023,Bagheria,Casteldaccia,11682,2020-11-17,46
 82023,Bagheria,Casteldaccia,11682,2020-11-18,45
 82023,Bagheria,Casteldaccia,11682,2020-11-19,46
+82023,Bagheria,Casteldaccia,11682,2020-11-20,47
+82023,Bagheria,Casteldaccia,11682,2020-11-22,42
+82023,Bagheria,Casteldaccia,11682,2020-11-23,42
+82023,Bagheria,Casteldaccia,11682,2020-11-24,49
 82024,Petralia Sottana,Castellana Sicula,3200,2020-10-19,1
 82024,Petralia Sottana,Castellana Sicula,3200,2020-10-20,1
 82024,Petralia Sottana,Castellana Sicula,3200,2020-10-21,1
@@ -647,6 +739,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82024,Petralia Sottana,Castellana Sicula,3200,2020-11-17,6
 82024,Petralia Sottana,Castellana Sicula,3200,2020-11-18,6
 82024,Petralia Sottana,Castellana Sicula,3200,2020-11-19,6
+82024,Petralia Sottana,Castellana Sicula,3200,2020-11-20,6
+82024,Petralia Sottana,Castellana Sicula,3200,2020-11-22,6
+82024,Petralia Sottana,Castellana Sicula,3200,2020-11-23,6
+82024,Petralia Sottana,Castellana Sicula,3200,2020-11-24,6
 82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-10-19,0
 82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-10-20,0
 82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-10-21,0
@@ -674,6 +770,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-17,11
 82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-18,11
 82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-19,15
+82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-20,15
+82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-22,15
+82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-23,12
+82025,Lercara Friddi,Castronovo di Sicilia,2944,2020-11-24,12
 82026,Misilmeri,Cefalà Diana,997,2020-10-19,14
 82026,Misilmeri,Cefalà Diana,997,2020-10-20,14
 82026,Misilmeri,Cefalà Diana,997,2020-10-21,14
@@ -701,6 +801,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82026,Misilmeri,Cefalà Diana,997,2020-11-17,10
 82026,Misilmeri,Cefalà Diana,997,2020-11-18,10
 82026,Misilmeri,Cefalà Diana,997,2020-11-19,10
+82026,Misilmeri,Cefalà Diana,997,2020-11-20,10
+82026,Misilmeri,Cefalà Diana,997,2020-11-22,10
+82026,Misilmeri,Cefalà Diana,997,2020-11-23,10
+82026,Misilmeri,Cefalà Diana,997,2020-11-24,10
 82027,Cefalù,Cefalù,14155,2020-10-19,7
 82027,Cefalù,Cefalù,14155,2020-10-20,10
 82027,Cefalù,Cefalù,14155,2020-10-21,10
@@ -728,6 +832,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82027,Cefalù,Cefalù,14155,2020-11-17,45
 82027,Cefalù,Cefalù,14155,2020-11-18,45
 82027,Cefalù,Cefalù,14155,2020-11-19,45
+82027,Cefalù,Cefalù,14155,2020-11-20,23
+82027,Cefalù,Cefalù,14155,2020-11-22,24
+82027,Cefalù,Cefalù,14155,2020-11-23,24
+82027,Cefalù,Cefalù,14155,2020-11-24,25
 82028,Termini Imerese,Cerda,5079,2020-10-19,8
 82028,Termini Imerese,Cerda,5079,2020-10-20,9
 82028,Termini Imerese,Cerda,5079,2020-10-21,9
@@ -755,6 +863,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82028,Termini Imerese,Cerda,5079,2020-11-17,29
 82028,Termini Imerese,Cerda,5079,2020-11-18,29
 82028,Termini Imerese,Cerda,5079,2020-11-19,29
+82028,Termini Imerese,Cerda,5079,2020-11-20,29
+82028,Termini Imerese,Cerda,5079,2020-11-22,24
+82028,Termini Imerese,Cerda,5079,2020-11-23,24
+82028,Termini Imerese,Cerda,5079,2020-11-24,26
 82029,Corleone,Chiusa Sclafani,2682,2020-10-19,6
 82029,Corleone,Chiusa Sclafani,2682,2020-10-20,13
 82029,Corleone,Chiusa Sclafani,2682,2020-10-21,13
@@ -782,6 +894,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82029,Corleone,Chiusa Sclafani,2682,2020-11-17,13
 82029,Corleone,Chiusa Sclafani,2682,2020-11-18,13
 82029,Corleone,Chiusa Sclafani,2682,2020-11-19,11
+82029,Corleone,Chiusa Sclafani,2682,2020-11-20,11
+82029,Corleone,Chiusa Sclafani,2682,2020-11-22,11
+82029,Corleone,Chiusa Sclafani,2682,2020-11-23,11
+82029,Corleone,Chiusa Sclafani,2682,2020-11-24,11
 82030,Misilmeri,Ciminna,3560,2020-10-19,2
 82030,Misilmeri,Ciminna,3560,2020-10-20,2
 82030,Misilmeri,Ciminna,3560,2020-10-21,7
@@ -809,6 +925,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82030,Misilmeri,Ciminna,3560,2020-11-17,69
 82030,Misilmeri,Ciminna,3560,2020-11-18,80
 82030,Misilmeri,Ciminna,3560,2020-11-19,80
+82030,Misilmeri,Ciminna,3560,2020-11-20,80
+82030,Misilmeri,Ciminna,3560,2020-11-22,80
+82030,Misilmeri,Ciminna,3560,2020-11-23,89
+82030,Misilmeri,Ciminna,3560,2020-11-24,91
 82031,Carini,Cinisi,12240,2020-10-19,6
 82031,Carini,Cinisi,12240,2020-10-20,5
 82031,Carini,Cinisi,12240,2020-10-21,7
@@ -836,6 +956,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82031,Carini,Cinisi,12240,2020-11-17,15
 82031,Carini,Cinisi,12240,2020-11-18,15
 82031,Carini,Cinisi,12240,2020-11-19,15
+82031,Carini,Cinisi,12240,2020-11-20,15
+82031,Carini,Cinisi,12240,2020-11-22,15
+82031,Carini,Cinisi,12240,2020-11-23,15
+82031,Carini,Cinisi,12240,2020-11-24,10
 82032,Cefalù,Collesano,3858,2020-10-19,1
 82032,Cefalù,Collesano,3858,2020-10-20,2
 82032,Cefalù,Collesano,3858,2020-10-21,2
@@ -863,6 +987,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82032,Cefalù,Collesano,3858,2020-11-17,4
 82032,Cefalù,Collesano,3858,2020-11-18,4
 82032,Cefalù,Collesano,3858,2020-11-19,4
+82032,Cefalù,Collesano,3858,2020-11-20,4
+82032,Cefalù,Collesano,3858,2020-11-22,10
+82032,Cefalù,Collesano,3858,2020-11-23,10
+82032,Cefalù,Collesano,3858,2020-11-24,8
 82033,Corleone,Contessa Entellina,1608,2020-10-19,5
 82033,Corleone,Contessa Entellina,1608,2020-10-20,7
 82033,Corleone,Contessa Entellina,1608,2020-10-21,7
@@ -890,6 +1018,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82033,Corleone,Contessa Entellina,1608,2020-11-17,15
 82033,Corleone,Contessa Entellina,1608,2020-11-18,13
 82033,Corleone,Contessa Entellina,1608,2020-11-19,10
+82033,Corleone,Contessa Entellina,1608,2020-11-20,10
+82033,Corleone,Contessa Entellina,1608,2020-11-22,10
+82033,Corleone,Contessa Entellina,1608,2020-11-23,7
+82033,Corleone,Contessa Entellina,1608,2020-11-24,7
 82034,Corleone,Corleone,10855,2020-10-19,34
 82034,Corleone,Corleone,10855,2020-10-20,30
 82034,Corleone,Corleone,10855,2020-10-21,29
@@ -917,6 +1049,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82034,Corleone,Corleone,10855,2020-11-17,40
 82034,Corleone,Corleone,10855,2020-11-18,43
 82034,Corleone,Corleone,10855,2020-11-19,37
+82034,Corleone,Corleone,10855,2020-11-20,37
+82034,Corleone,Corleone,10855,2020-11-22,37
+82034,Corleone,Corleone,10855,2020-11-23,39
+82034,Corleone,Corleone,10855,2020-11-24,39
 82035,Bagheria,Ficarazzi,13050,2020-10-19,15
 82035,Bagheria,Ficarazzi,13050,2020-10-20,15
 82035,Bagheria,Ficarazzi,13050,2020-10-21,15
@@ -944,6 +1080,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82035,Bagheria,Ficarazzi,13050,2020-11-17,99
 82035,Bagheria,Ficarazzi,13050,2020-11-18,99
 82035,Bagheria,Ficarazzi,13050,2020-11-19,100
+82035,Bagheria,Ficarazzi,13050,2020-11-20,109
+82035,Bagheria,Ficarazzi,13050,2020-11-22,114
+82035,Bagheria,Ficarazzi,13050,2020-11-23,114
+82035,Bagheria,Ficarazzi,13050,2020-11-24,124
 82036,Petralia Sottana,Gangi,6464,2020-10-19,0
 82036,Petralia Sottana,Gangi,6464,2020-10-20,0
 82036,Petralia Sottana,Gangi,6464,2020-10-21,0
@@ -971,6 +1111,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82036,Petralia Sottana,Gangi,6464,2020-11-17,5
 82036,Petralia Sottana,Gangi,6464,2020-11-18,5
 82036,Petralia Sottana,Gangi,6464,2020-11-19,5
+82036,Petralia Sottana,Gangi,6464,2020-11-20,5
+82036,Petralia Sottana,Gangi,6464,2020-11-22,8
+82036,Petralia Sottana,Gangi,6464,2020-11-23,14
+82036,Petralia Sottana,Gangi,6464,2020-11-24,13
 82037,Petralia Sottana,Geraci Siculo,1765,2020-10-19,0
 82037,Petralia Sottana,Geraci Siculo,1765,2020-10-20,0
 82037,Petralia Sottana,Geraci Siculo,1765,2020-10-21,0
@@ -998,6 +1142,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82037,Petralia Sottana,Geraci Siculo,1765,2020-11-17,6
 82037,Petralia Sottana,Geraci Siculo,1765,2020-11-18,6
 82037,Petralia Sottana,Geraci Siculo,1765,2020-11-19,6
+82037,Petralia Sottana,Geraci Siculo,1765,2020-11-20,6
+82037,Petralia Sottana,Geraci Siculo,1765,2020-11-22,2
+82037,Petralia Sottana,Geraci Siculo,1765,2020-11-23,7
+82037,Petralia Sottana,Geraci Siculo,1765,2020-11-24,6
 82038,Partinico,Giardinello,2306,2020-10-19,1
 82038,Partinico,Giardinello,2306,2020-10-20,1
 82038,Partinico,Giardinello,2306,2020-10-21,1
@@ -1025,6 +1173,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82038,Partinico,Giardinello,2306,2020-11-17,2
 82038,Partinico,Giardinello,2306,2020-11-18,2
 82038,Partinico,Giardinello,2306,2020-11-19,1
+82038,Partinico,Giardinello,2306,2020-11-20,1
+82038,Partinico,Giardinello,2306,2020-11-22,1
+82038,Partinico,Giardinello,2306,2020-11-23,1
+82038,Partinico,Giardinello,2306,2020-11-24,1
 82039,Corleone,Giuliana,1802,2020-10-19,1
 82039,Corleone,Giuliana,1802,2020-10-20,2
 82039,Corleone,Giuliana,1802,2020-10-21,3
@@ -1052,6 +1204,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82039,Corleone,Giuliana,1802,2020-11-17,6
 82039,Corleone,Giuliana,1802,2020-11-18,3
 82039,Corleone,Giuliana,1802,2020-11-19,3
+82039,Corleone,Giuliana,1802,2020-11-20,3
+82039,Corleone,Giuliana,1802,2020-11-22,3
+82039,Corleone,Giuliana,1802,2020-11-23,3
+82039,Corleone,Giuliana,1802,2020-11-24,3
 82040,Misilmeri,Godrano,1122,2020-10-19,2
 82040,Misilmeri,Godrano,1122,2020-10-20,2
 82040,Misilmeri,Godrano,1122,2020-10-21,2
@@ -1079,6 +1235,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82040,Misilmeri,Godrano,1122,2020-11-17,0
 82040,Misilmeri,Godrano,1122,2020-11-18,0
 82040,Misilmeri,Godrano,1122,2020-11-19,0
+82040,Misilmeri,Godrano,1122,2020-11-20,0
+82040,Misilmeri,Godrano,1122,2020-11-22,0
+82040,Misilmeri,Godrano,1122,2020-11-23,0
+82040,Misilmeri,Godrano,1122,2020-11-24,0
 82041,Cefalù,Gratteri,905,2020-10-19,0
 82041,Cefalù,Gratteri,905,2020-10-20,0
 82041,Cefalù,Gratteri,905,2020-10-21,0
@@ -1106,6 +1266,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82041,Cefalù,Gratteri,905,2020-11-17,0
 82041,Cefalù,Gratteri,905,2020-11-18,0
 82041,Cefalù,Gratteri,905,2020-11-19,0
+82041,Cefalù,Gratteri,905,2020-11-20,0
+82041,Cefalù,Gratteri,905,2020-11-22,0
+82041,Cefalù,Gratteri,905,2020-11-23,0
+82041,Cefalù,Gratteri,905,2020-11-24,0
 82042,Cefalù,Isnello,1418,2020-10-19,0
 82042,Cefalù,Isnello,1418,2020-10-20,0
 82042,Cefalù,Isnello,1418,2020-10-21,0
@@ -1133,6 +1297,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82042,Cefalù,Isnello,1418,2020-11-17,3
 82042,Cefalù,Isnello,1418,2020-11-18,3
 82042,Cefalù,Isnello,1418,2020-11-19,4
+82042,Cefalù,Isnello,1418,2020-11-20,5
+82042,Cefalù,Isnello,1418,2020-11-22,3
+82042,Cefalù,Isnello,1418,2020-11-23,3
+82042,Cefalù,Isnello,1418,2020-11-24,1
 82043,Carini,Isola delle Femmine,7099,2020-10-19,5
 82043,Carini,Isola delle Femmine,7099,2020-10-20,11
 82043,Carini,Isola delle Femmine,7099,2020-10-21,16
@@ -1160,6 +1328,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82043,Carini,Isola delle Femmine,7099,2020-11-17,18
 82043,Carini,Isola delle Femmine,7099,2020-11-18,18
 82043,Carini,Isola delle Femmine,7099,2020-11-19,18
+82043,Carini,Isola delle Femmine,7099,2020-11-20,18
+82043,Carini,Isola delle Femmine,7099,2020-11-22,18
+82043,Carini,Isola delle Femmine,7099,2020-11-23,18
+82043,Carini,Isola delle Femmine,7099,2020-11-24,13
 82044,Cefalù,Lascari,3647,2020-10-19,13
 82044,Cefalù,Lascari,3647,2020-10-20,16
 82044,Cefalù,Lascari,3647,2020-10-21,16
@@ -1187,6 +1359,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82044,Cefalù,Lascari,3647,2020-11-17,12
 82044,Cefalù,Lascari,3647,2020-11-18,12
 82044,Cefalù,Lascari,3647,2020-11-19,15
+82044,Cefalù,Lascari,3647,2020-11-20,11
+82044,Cefalù,Lascari,3647,2020-11-22,15
+82044,Cefalù,Lascari,3647,2020-11-23,15
+82044,Cefalù,Lascari,3647,2020-11-24,11
 82045,Lercara Friddi,Lercara Friddi,6626,2020-10-19,7
 82045,Lercara Friddi,Lercara Friddi,6626,2020-10-20,3
 82045,Lercara Friddi,Lercara Friddi,6626,2020-10-21,3
@@ -1214,6 +1390,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82045,Lercara Friddi,Lercara Friddi,6626,2020-11-17,33
 82045,Lercara Friddi,Lercara Friddi,6626,2020-11-18,37
 82045,Lercara Friddi,Lercara Friddi,6626,2020-11-19,36
+82045,Lercara Friddi,Lercara Friddi,6626,2020-11-20,39
+82045,Lercara Friddi,Lercara Friddi,6626,2020-11-22,39
+82045,Lercara Friddi,Lercara Friddi,6626,2020-11-23,38
+82045,Lercara Friddi,Lercara Friddi,6626,2020-11-24,38
 82046,Misilmeri,Marineo,6393,2020-10-19,17
 82046,Misilmeri,Marineo,6393,2020-10-20,17
 82046,Misilmeri,Marineo,6393,2020-10-21,17
@@ -1241,6 +1421,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82046,Misilmeri,Marineo,6393,2020-11-17,85
 82046,Misilmeri,Marineo,6393,2020-11-18,72
 82046,Misilmeri,Marineo,6393,2020-11-19,72
+82046,Misilmeri,Marineo,6393,2020-11-20,72
+82046,Misilmeri,Marineo,6393,2020-11-22,72
+82046,Misilmeri,Marineo,6393,2020-11-23,72
+82046,Misilmeri,Marineo,6393,2020-11-24,72
 82047,Misilmeri,Mezzojuso,2797,2020-10-19,42
 82047,Misilmeri,Mezzojuso,2797,2020-10-20,43
 82047,Misilmeri,Mezzojuso,2797,2020-10-21,43
@@ -1268,6 +1452,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82047,Misilmeri,Mezzojuso,2797,2020-11-17,23
 82047,Misilmeri,Mezzojuso,2797,2020-11-18,23
 82047,Misilmeri,Mezzojuso,2797,2020-11-19,23
+82047,Misilmeri,Mezzojuso,2797,2020-11-20,23
+82047,Misilmeri,Mezzojuso,2797,2020-11-22,23
+82047,Misilmeri,Mezzojuso,2797,2020-11-23,23
+82047,Misilmeri,Mezzojuso,2797,2020-11-24,16
 82048,Misilmeri,Misilmeri,29292,2020-10-19,60
 82048,Misilmeri,Misilmeri,29292,2020-10-20,67
 82048,Misilmeri,Misilmeri,29292,2020-10-21,72
@@ -1295,6 +1483,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82048,Misilmeri,Misilmeri,29292,2020-11-17,386
 82048,Misilmeri,Misilmeri,29292,2020-11-18,386
 82048,Misilmeri,Misilmeri,29292,2020-11-19,381
+82048,Misilmeri,Misilmeri,29292,2020-11-20,381
+82048,Misilmeri,Misilmeri,29292,2020-11-22,445
+82048,Misilmeri,Misilmeri,29292,2020-11-23,445
+82048,Misilmeri,Misilmeri,29292,2020-11-24,445
 82049,Palermo,Monreale,38963,2020-10-19,4
 82049,Palermo,Monreale,38963,2020-10-20,0
 82049,Palermo,Monreale,38963,2020-10-21,0
@@ -1322,6 +1514,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82049,Palermo,Monreale,38963,2020-11-17,77
 82049,Palermo,Monreale,38963,2020-11-18,77
 82049,Palermo,Monreale,38963,2020-11-19,77
+82049,Palermo,Monreale,38963,2020-11-20,87
+82049,Palermo,Monreale,38963,2020-11-22,89
+82049,Palermo,Monreale,38963,2020-11-23,89
+82049,Palermo,Monreale,38963,2020-11-24,89
 82050,Partinico,Montelepre,6015,2020-10-19,3
 82050,Partinico,Montelepre,6015,2020-10-20,3
 82050,Partinico,Montelepre,6015,2020-10-21,3
@@ -1349,6 +1545,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82050,Partinico,Montelepre,6015,2020-11-17,20
 82050,Partinico,Montelepre,6015,2020-11-18,20
 82050,Partinico,Montelepre,6015,2020-11-19,33
+82050,Partinico,Montelepre,6015,2020-11-20,33
+82050,Partinico,Montelepre,6015,2020-11-22,33
+82050,Partinico,Montelepre,6015,2020-11-23,35
+82050,Partinico,Montelepre,6015,2020-11-24,35
 82051,Termini Imerese,Montemaggiore Belsito,3151,2020-10-19,57
 82051,Termini Imerese,Montemaggiore Belsito,3151,2020-10-20,50
 82051,Termini Imerese,Montemaggiore Belsito,3151,2020-10-21,50
@@ -1376,6 +1576,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-17,18
 82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-18,18
 82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-19,18
+82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-20,18
+82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-22,18
+82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-23,18
+82051,Termini Imerese,Montemaggiore Belsito,3151,2020-11-24,18
 82052,Lercara Friddi,Palazzo Adriano,1928,2020-10-19,0
 82052,Lercara Friddi,Palazzo Adriano,1928,2020-10-20,0
 82052,Lercara Friddi,Palazzo Adriano,1928,2020-10-21,0
@@ -1403,6 +1607,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-17,20
 82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-18,18
 82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-19,15
+82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-20,17
+82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-22,17
+82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-23,11
+82052,Lercara Friddi,Palazzo Adriano,1928,2020-11-24,11
 82053,Palermo,Palermo,657960,2020-10-19,1437
 82053,Palermo,Palermo,657960,2020-10-20,1477
 82053,Palermo,Palermo,657960,2020-10-21,1577
@@ -1430,6 +1638,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82053,Palermo,Palermo,657960,2020-11-17,6229
 82053,Palermo,Palermo,657960,2020-11-18,6482
 82053,Palermo,Palermo,657960,2020-11-19,6854
+82053,Palermo,Palermo,657960,2020-11-20,7121
+82053,Palermo,Palermo,657960,2020-11-22,7748
+82053,Palermo,Palermo,657960,2020-11-23,8013
+82053,Palermo,Palermo,657960,2020-11-24,7713
 82054,Partinico,Partinico,31569,2020-10-19,54
 82054,Partinico,Partinico,31569,2020-10-20,70
 82054,Partinico,Partinico,31569,2020-10-21,70
@@ -1457,6 +1669,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82054,Partinico,Partinico,31569,2020-11-17,172
 82054,Partinico,Partinico,31569,2020-11-18,172
 82054,Partinico,Partinico,31569,2020-11-19,135
+82054,Partinico,Partinico,31569,2020-11-20,135
+82054,Partinico,Partinico,31569,2020-11-22,135
+82054,Partinico,Partinico,31569,2020-11-23,148
+82054,Partinico,Partinico,31569,2020-11-24,148
 82055,Petralia Sottana,Petralia Soprana,3120,2020-10-19,0
 82055,Petralia Sottana,Petralia Soprana,3120,2020-10-20,0
 82055,Petralia Sottana,Petralia Soprana,3120,2020-10-21,0
@@ -1484,6 +1700,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82055,Petralia Sottana,Petralia Soprana,3120,2020-11-17,6
 82055,Petralia Sottana,Petralia Soprana,3120,2020-11-18,6
 82055,Petralia Sottana,Petralia Soprana,3120,2020-11-19,6
+82055,Petralia Sottana,Petralia Soprana,3120,2020-11-20,6
+82055,Petralia Sottana,Petralia Soprana,3120,2020-11-22,6
+82055,Petralia Sottana,Petralia Soprana,3120,2020-11-23,6
+82055,Petralia Sottana,Petralia Soprana,3120,2020-11-24,6
 82056,Petralia Sottana,Petralia Sottana,2593,2020-10-19,1
 82056,Petralia Sottana,Petralia Sottana,2593,2020-10-20,1
 82056,Petralia Sottana,Petralia Sottana,2593,2020-10-21,1
@@ -1511,6 +1731,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82056,Petralia Sottana,Petralia Sottana,2593,2020-11-17,0
 82056,Petralia Sottana,Petralia Sottana,2593,2020-11-18,0
 82056,Petralia Sottana,Petralia Sottana,2593,2020-11-19,0
+82056,Petralia Sottana,Petralia Sottana,2593,2020-11-20,0
+82056,Petralia Sottana,Petralia Sottana,2593,2020-11-22,0
+82056,Petralia Sottana,Petralia Sottana,2593,2020-11-23,0
+82056,Petralia Sottana,Petralia Sottana,2593,2020-11-24,0
 82057,Palermo,Piana degli Albanesi,5924,2020-10-19,
 82057,Palermo,Piana degli Albanesi,5924,2020-10-20,
 82057,Palermo,Piana degli Albanesi,5924,2020-10-21,
@@ -1538,6 +1762,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82057,Palermo,Piana degli Albanesi,5924,2020-11-17,44
 82057,Palermo,Piana degli Albanesi,5924,2020-11-18,44
 82057,Palermo,Piana degli Albanesi,5924,2020-11-19,35
+82057,Palermo,Piana degli Albanesi,5924,2020-11-20,40
+82057,Palermo,Piana degli Albanesi,5924,2020-11-22,40
+82057,Palermo,Piana degli Albanesi,5924,2020-11-23,25
+82057,Palermo,Piana degli Albanesi,5924,2020-11-24,25
 82058,Petralia Sottana,Polizzi Generosa,3112,2020-10-19,2
 82058,Petralia Sottana,Polizzi Generosa,3112,2020-10-20,2
 82058,Petralia Sottana,Polizzi Generosa,3112,2020-10-21,2
@@ -1565,6 +1793,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-17,9
 82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-18,9
 82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-19,9
+82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-20,8
+82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-22,5
+82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-23,5
+82058,Petralia Sottana,Polizzi Generosa,3112,2020-11-24,5
 82059,Cefalù,Pollina,2891,2020-10-19,0
 82059,Cefalù,Pollina,2891,2020-10-20,0
 82059,Cefalù,Pollina,2891,2020-10-21,0
@@ -1592,6 +1824,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82059,Cefalù,Pollina,2891,2020-11-17,6
 82059,Cefalù,Pollina,2891,2020-11-18,6
 82059,Cefalù,Pollina,2891,2020-11-19,6
+82059,Cefalù,Pollina,2891,2020-11-20,1
+82059,Cefalù,Pollina,2891,2020-11-22,1
+82059,Cefalù,Pollina,2891,2020-11-23,1
+82059,Cefalù,Pollina,2891,2020-11-24,1
 82060,Lercara Friddi,Prizzi,4508,2020-10-19,0
 82060,Lercara Friddi,Prizzi,4508,2020-10-20,0
 82060,Lercara Friddi,Prizzi,4508,2020-10-21,0
@@ -1619,6 +1855,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82060,Lercara Friddi,Prizzi,4508,2020-11-17,6
 82060,Lercara Friddi,Prizzi,4508,2020-11-18,7
 82060,Lercara Friddi,Prizzi,4508,2020-11-19,9
+82060,Lercara Friddi,Prizzi,4508,2020-11-20,9
+82060,Lercara Friddi,Prizzi,4508,2020-11-22,9
+82060,Lercara Friddi,Prizzi,4508,2020-11-23,9
+82060,Lercara Friddi,Prizzi,4508,2020-11-24,9
 82061,Corleone,Roccamena,1429,2020-10-19,0
 82061,Corleone,Roccamena,1429,2020-10-20,0
 82061,Corleone,Roccamena,1429,2020-10-21,1
@@ -1646,6 +1886,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82061,Corleone,Roccamena,1429,2020-11-17,5
 82061,Corleone,Roccamena,1429,2020-11-18,4
 82061,Corleone,Roccamena,1429,2020-11-19,4
+82061,Corleone,Roccamena,1429,2020-11-20,4
+82061,Corleone,Roccamena,1429,2020-11-22,4
+82061,Corleone,Roccamena,1429,2020-11-23,4
+82061,Corleone,Roccamena,1429,2020-11-24,4
 82062,Lercara Friddi,Roccapalumba,2385,2020-10-19,0
 82062,Lercara Friddi,Roccapalumba,2385,2020-10-20,0
 82062,Lercara Friddi,Roccapalumba,2385,2020-10-21,0
@@ -1673,6 +1917,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82062,Lercara Friddi,Roccapalumba,2385,2020-11-17,0
 82062,Lercara Friddi,Roccapalumba,2385,2020-11-18,1
 82062,Lercara Friddi,Roccapalumba,2385,2020-11-19,4
+82062,Lercara Friddi,Roccapalumba,2385,2020-11-20,6
+82062,Lercara Friddi,Roccapalumba,2385,2020-11-22,6
+82062,Lercara Friddi,Roccapalumba,2385,2020-11-23,8
+82062,Lercara Friddi,Roccapalumba,2385,2020-11-24,8
 82063,Partinico,San Cipirello,5212,2020-10-19,42
 82063,Partinico,San Cipirello,5212,2020-10-20,37
 82063,Partinico,San Cipirello,5212,2020-10-21,37
@@ -1700,6 +1948,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82063,Partinico,San Cipirello,5212,2020-11-17,31
 82063,Partinico,San Cipirello,5212,2020-11-18,31
 82063,Partinico,San Cipirello,5212,2020-11-19,20
+82063,Partinico,San Cipirello,5212,2020-11-20,20
+82063,Partinico,San Cipirello,5212,2020-11-22,20
+82063,Partinico,San Cipirello,5212,2020-11-23,20
+82063,Partinico,San Cipirello,5212,2020-11-24,20
 82064,Partinico,San Giuseppe Jato,8375,2020-10-19,67
 82064,Partinico,San Giuseppe Jato,8375,2020-10-20,61
 82064,Partinico,San Giuseppe Jato,8375,2020-10-21,61
@@ -1727,6 +1979,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82064,Partinico,San Giuseppe Jato,8375,2020-11-17,40
 82064,Partinico,San Giuseppe Jato,8375,2020-11-18,40
 82064,Partinico,San Giuseppe Jato,8375,2020-11-19,24
+82064,Partinico,San Giuseppe Jato,8375,2020-11-20,24
+82064,Partinico,San Giuseppe Jato,8375,2020-11-22,24
+82064,Partinico,San Giuseppe Jato,8375,2020-11-23,24
+82064,Partinico,San Giuseppe Jato,8375,2020-11-24,24
 82065,Cefalù,San Mauro Castelverde,1470,2020-10-19,0
 82065,Cefalù,San Mauro Castelverde,1470,2020-10-20,0
 82065,Cefalù,San Mauro Castelverde,1470,2020-10-21,0
@@ -1754,6 +2010,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82065,Cefalù,San Mauro Castelverde,1470,2020-11-17,0
 82065,Cefalù,San Mauro Castelverde,1470,2020-11-18,0
 82065,Cefalù,San Mauro Castelverde,1470,2020-11-19,0
+82065,Cefalù,San Mauro Castelverde,1470,2020-11-20,0
+82065,Cefalù,San Mauro Castelverde,1470,2020-11-22,0
+82065,Cefalù,San Mauro Castelverde,1470,2020-11-23,0
+82065,Cefalù,San Mauro Castelverde,1470,2020-11-24,0
 82066,Palermo,Santa Cristina Gela,997,2020-10-19,
 82066,Palermo,Santa Cristina Gela,997,2020-10-20,
 82066,Palermo,Santa Cristina Gela,997,2020-10-21,
@@ -1781,6 +2041,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82066,Palermo,Santa Cristina Gela,997,2020-11-17,3
 82066,Palermo,Santa Cristina Gela,997,2020-11-18,5
 82066,Palermo,Santa Cristina Gela,997,2020-11-19,5
+82066,Palermo,Santa Cristina Gela,997,2020-11-20,5
+82066,Palermo,Santa Cristina Gela,997,2020-11-22,5
+82066,Palermo,Santa Cristina Gela,997,2020-11-23,5
+82066,Palermo,Santa Cristina Gela,997,2020-11-24,5
 82067,Bagheria,Santa Flavia,11181,2020-10-19,6
 82067,Bagheria,Santa Flavia,11181,2020-10-20,6
 82067,Bagheria,Santa Flavia,11181,2020-10-21,6
@@ -1808,6 +2072,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82067,Bagheria,Santa Flavia,11181,2020-11-17,68
 82067,Bagheria,Santa Flavia,11181,2020-11-18,68
 82067,Bagheria,Santa Flavia,11181,2020-11-19,71
+82067,Bagheria,Santa Flavia,11181,2020-11-20,84
+82067,Bagheria,Santa Flavia,11181,2020-11-22,87
+82067,Bagheria,Santa Flavia,11181,2020-11-23,87
+82067,Bagheria,Santa Flavia,11181,2020-11-24,78
 82068,Termini Imerese,Sciara,2674,2020-10-19,4
 82068,Termini Imerese,Sciara,2674,2020-10-20,0
 82068,Termini Imerese,Sciara,2674,2020-10-21,0
@@ -1835,6 +2103,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82068,Termini Imerese,Sciara,2674,2020-11-17,0
 82068,Termini Imerese,Sciara,2674,2020-11-18,0
 82068,Termini Imerese,Sciara,2674,2020-11-19,0
+82068,Termini Imerese,Sciara,2674,2020-11-20,0
+82068,Termini Imerese,Sciara,2674,2020-11-22,0
+82068,Termini Imerese,Sciara,2674,2020-11-23,0
+82068,Termini Imerese,Sciara,2674,2020-11-24,0
 82069,Termini Imerese,Sclafani Bagni,397,2020-10-19,0
 82069,Termini Imerese,Sclafani Bagni,397,2020-10-20,0
 82069,Termini Imerese,Sclafani Bagni,397,2020-10-21,0
@@ -1862,6 +2134,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82069,Termini Imerese,Sclafani Bagni,397,2020-11-17,0
 82069,Termini Imerese,Sclafani Bagni,397,2020-11-18,0
 82069,Termini Imerese,Sclafani Bagni,397,2020-11-19,0
+82069,Termini Imerese,Sclafani Bagni,397,2020-11-20,0
+82069,Termini Imerese,Sclafani Bagni,397,2020-11-22,0
+82069,Termini Imerese,Sclafani Bagni,397,2020-11-23,0
+82069,Termini Imerese,Sclafani Bagni,397,2020-11-24,0
 82070,Termini Imerese,Termini Imerese,25889,2020-10-19,24
 82070,Termini Imerese,Termini Imerese,25889,2020-10-20,28
 82070,Termini Imerese,Termini Imerese,25889,2020-10-21,28
@@ -1889,6 +2165,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82070,Termini Imerese,Termini Imerese,25889,2020-11-17,107
 82070,Termini Imerese,Termini Imerese,25889,2020-11-18,98
 82070,Termini Imerese,Termini Imerese,25889,2020-11-19,98
+82070,Termini Imerese,Termini Imerese,25889,2020-11-20,98
+82070,Termini Imerese,Termini Imerese,25889,2020-11-22,103
+82070,Termini Imerese,Termini Imerese,25889,2020-11-23,103
+82070,Termini Imerese,Termini Imerese,25889,2020-11-24,101
 82071,Carini,Terrasini,12676,2020-10-19,6
 82071,Carini,Terrasini,12676,2020-10-20,9
 82071,Carini,Terrasini,12676,2020-10-21,11
@@ -1916,6 +2196,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82071,Carini,Terrasini,12676,2020-11-17,25
 82071,Carini,Terrasini,12676,2020-11-18,25
 82071,Carini,Terrasini,12676,2020-11-19,25
+82071,Carini,Terrasini,12676,2020-11-20,25
+82071,Carini,Terrasini,12676,2020-11-22,25
+82071,Carini,Terrasini,12676,2020-11-23,25
+82071,Carini,Terrasini,12676,2020-11-24,26
 82072,Carini,Torretta,4319,2020-10-19,13
 82072,Carini,Torretta,4319,2020-10-20,13
 82072,Carini,Torretta,4319,2020-10-21,20
@@ -1943,6 +2227,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82072,Carini,Torretta,4319,2020-11-17,62
 82072,Carini,Torretta,4319,2020-11-18,62
 82072,Carini,Torretta,4319,2020-11-19,62
+82072,Carini,Torretta,4319,2020-11-20,62
+82072,Carini,Torretta,4319,2020-11-22,62
+82072,Carini,Torretta,4319,2020-11-23,62
+82072,Carini,Torretta,4319,2020-11-24,55
 82073,Termini Imerese,Trabia,10396,2020-10-19,11
 82073,Termini Imerese,Trabia,10396,2020-10-20,12
 82073,Termini Imerese,Trabia,10396,2020-10-21,12
@@ -1970,6 +2258,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82073,Termini Imerese,Trabia,10396,2020-11-17,37
 82073,Termini Imerese,Trabia,10396,2020-11-18,37
 82073,Termini Imerese,Trabia,10396,2020-11-19,37
+82073,Termini Imerese,Trabia,10396,2020-11-20,37
+82073,Termini Imerese,Trabia,10396,2020-11-22,37
+82073,Termini Imerese,Trabia,10396,2020-11-23,37
+82073,Termini Imerese,Trabia,10396,2020-11-24,34
 82074,Partinico,Trappeto,3102,2020-10-19,0
 82074,Partinico,Trappeto,3102,2020-10-20,0
 82074,Partinico,Trappeto,3102,2020-10-21,0
@@ -1997,6 +2289,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82074,Partinico,Trappeto,3102,2020-11-17,0
 82074,Partinico,Trappeto,3102,2020-11-18,0
 82074,Partinico,Trappeto,3102,2020-11-19,1
+82074,Partinico,Trappeto,3102,2020-11-20,1
+82074,Partinico,Trappeto,3102,2020-11-22,1
+82074,Partinico,Trappeto,3102,2020-11-23,1
+82074,Partinico,Trappeto,3102,2020-11-24,1
 82075,,Ustica,1302,2020-10-19,
 82075,,Ustica,1302,2020-10-20,
 82075,,Ustica,1302,2020-10-21,
@@ -2024,6 +2320,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82075,,Ustica,1302,2020-11-17,
 82075,,Ustica,1302,2020-11-18,
 82075,,Ustica,1302,2020-11-19,
+82075,,Ustica,1302,2020-11-20,
+82075,,Ustica,1302,2020-11-22,
+82075,,Ustica,1302,2020-11-23,
+82075,,Ustica,1302,2020-11-24,
 82076,Lercara Friddi,Valledolmo,3400,2020-10-19,0
 82076,Lercara Friddi,Valledolmo,3400,2020-10-20,0
 82076,Lercara Friddi,Valledolmo,3400,2020-10-21,0
@@ -2051,6 +2351,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82076,Lercara Friddi,Valledolmo,3400,2020-11-17,1
 82076,Lercara Friddi,Valledolmo,3400,2020-11-18,1
 82076,Lercara Friddi,Valledolmo,3400,2020-11-19,1
+82076,Lercara Friddi,Valledolmo,3400,2020-11-20,4
+82076,Lercara Friddi,Valledolmo,3400,2020-11-22,4
+82076,Lercara Friddi,Valledolmo,3400,2020-11-23,4
+82076,Lercara Friddi,Valledolmo,3400,2020-11-24,4
 82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-10-19,0
 82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-10-20,0
 82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-10-21,0
@@ -2078,6 +2382,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-17,0
 82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-18,0
 82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-19,0
+82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-20,0
+82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-22,0
+82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-23,0
+82077,Misilmeri,Ventimiglia di Sicilia,1869,2020-11-24,0
 82078,Lercara Friddi,Vicari,2559,2020-10-19,0
 82078,Lercara Friddi,Vicari,2559,2020-10-20,0
 82078,Lercara Friddi,Vicari,2559,2020-10-21,0
@@ -2105,6 +2413,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82078,Lercara Friddi,Vicari,2559,2020-11-17,16
 82078,Lercara Friddi,Vicari,2559,2020-11-18,14
 82078,Lercara Friddi,Vicari,2559,2020-11-19,16
+82078,Lercara Friddi,Vicari,2559,2020-11-20,15
+82078,Lercara Friddi,Vicari,2559,2020-11-22,15
+82078,Lercara Friddi,Vicari,2559,2020-11-23,14
+82078,Lercara Friddi,Vicari,2559,2020-11-24,10
 82079,Palermo,Villabate,19965,2020-10-19,34
 82079,Palermo,Villabate,19965,2020-10-20,30
 82079,Palermo,Villabate,19965,2020-10-21,30
@@ -2132,6 +2444,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82079,Palermo,Villabate,19965,2020-11-17,177
 82079,Palermo,Villabate,19965,2020-11-18,177
 82079,Palermo,Villabate,19965,2020-11-19,177
+82079,Palermo,Villabate,19965,2020-11-20,177
+82079,Palermo,Villabate,19965,2020-11-22,179
+82079,Palermo,Villabate,19965,2020-11-23,179
+82079,Palermo,Villabate,19965,2020-11-24,159
 82080,Misilmeri,Villafrati,3271,2020-10-19,100
 82080,Misilmeri,Villafrati,3271,2020-10-20,101
 82080,Misilmeri,Villafrati,3271,2020-10-21,90
@@ -2159,6 +2475,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82080,Misilmeri,Villafrati,3271,2020-11-17,51
 82080,Misilmeri,Villafrati,3271,2020-11-18,51
 82080,Misilmeri,Villafrati,3271,2020-11-19,59
+82080,Misilmeri,Villafrati,3271,2020-11-20,59
+82080,Misilmeri,Villafrati,3271,2020-11-22,59
+82080,Misilmeri,Villafrati,3271,2020-11-23,59
+82080,Misilmeri,Villafrati,3271,2020-11-24,59
 82081,Termini Imerese,Scillato,613,2020-10-19,0
 82081,Termini Imerese,Scillato,613,2020-10-20,0
 82081,Termini Imerese,Scillato,613,2020-10-21,0
@@ -2186,6 +2506,10 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82081,Termini Imerese,Scillato,613,2020-11-17,0
 82081,Termini Imerese,Scillato,613,2020-11-18,0
 82081,Termini Imerese,Scillato,613,2020-11-19,0
+82081,Termini Imerese,Scillato,613,2020-11-20,0
+82081,Termini Imerese,Scillato,613,2020-11-22,0
+82081,Termini Imerese,Scillato,613,2020-11-23,0
+82081,Termini Imerese,Scillato,613,2020-11-24,0
 82082,Petralia Sottana,Blufi,931,2020-10-19,0
 82082,Petralia Sottana,Blufi,931,2020-10-20,0
 82082,Petralia Sottana,Blufi,931,2020-10-21,0
@@ -2213,3 +2537,7 @@ Pro Com,Distretto,COMUNE,Residenti al 31/12/2020,data,positivi
 82082,Petralia Sottana,Blufi,931,2020-11-17,1
 82082,Petralia Sottana,Blufi,931,2020-11-18,2
 82082,Petralia Sottana,Blufi,931,2020-11-19,2
+82082,Petralia Sottana,Blufi,931,2020-11-20,2
+82082,Petralia Sottana,Blufi,931,2020-11-22,3
+82082,Petralia Sottana,Blufi,931,2020-11-23,3
+82082,Petralia Sottana,Blufi,931,2020-11-24,3
