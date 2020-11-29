@@ -3,6 +3,7 @@
 ### requisiti ###
 # csvkit https://csvkit.readthedocs.io/en/latest/
 # Miller https://github.com/johnkerl/miller
+# scrape-cli https://github.com/aborruso/scrape-cli
 ### requisiti ###
 
 set -x
@@ -13,7 +14,6 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
 URL="https://www.comune.palermo.it/statistica.php?sel=9&per=2020"
-#URL="https://www.comune.palermo.it/js/server/uploads/statistica/_25112020105310.xlsx"
 
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
@@ -37,4 +37,3 @@ if [ $code -eq 200 ]; then
   # crea versione del file con nomi comune in colonna
   mlr --csv cut -x -r -f "(Res|Dis|Pro)" then reshape -s COMUNE,positivi then sort -f data then clean-whitespace "$folder"/../../082053/output/positiviProvinciaPalermoLong.csv >"$folder"/../../082053/output/positiviProvinciaPalermoComuni.csv
 fi
-
