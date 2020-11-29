@@ -12,14 +12,17 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
-URL="https://www.comune.palermo.it/js/server/uploads/statistica/_25112020105310.xlsx"
+URL="https://www.comune.palermo.it/statistica.php?sel=9&per=2020"
+#URL="https://www.comune.palermo.it/js/server/uploads/statistica/_25112020105310.xlsx"
 
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
-  curl -kL "$URL" >"$folder"/rawdata/positiviProvinciaPalermo.xlsx
+  # estrai primo href "Dati comuni citta'", che dovrebbe essere sempre il più recente
+  hrefFile=$(curl -kL "$URL" | scrape -be '//a[contains(text(),"Dati comuni citta")]' | xq -r '.html.body.a[0]."@href"')
+  curl -kL "https://www.comune.palermo.it/$hrefFile" >"$folder"/rawdata/positiviProvinciaPalermo.xlsx
   in2csv -I --sheet tavola_pop_res01 "$folder"/rawdata/positiviProvinciaPalermo.xlsx >"$folder"/rawdata/positiviProvinciaPalermo.csv
   mlr --csv -N filter -S '$1=~"^(8|Pr)"' "$folder"/rawdata/positiviProvinciaPalermo.csv >"$folder"/processing/positiviProvinciaPalermo.csv
   sed -i -r 's/(\.|…)+//g' "$folder"/processing/positiviProvinciaPalermo.csv
