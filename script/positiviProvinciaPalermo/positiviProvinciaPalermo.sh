@@ -55,8 +55,18 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
+
   # estrai primo href "Dati comuni citta'", che dovrebbe essere sempre il più recente
-  hrefFile=$(curl -kL "$URL" | scrape -be '//a[contains(text(),"Dati citta")]' | xq -r '.html.body.a."@href"')
+  tipo=$(curl -kL "$URL" | scrape -be '//a[contains(text(),"Dati citta")]' | xq -r '.html.body.a|type')
+
+  # se l'URL è uno solo estrai oggetto
+  if [[ $tipo == "object" ]]; then
+    hrefFile=$(curl -kL "$URL" | scrape -be '//a[contains(text(),"Dati citta")]' | xq -r '.html.body.a."@href"')
+  # altrimenti estrai primo item dell'array
+  else
+    hrefFile=$(curl -kL "$URL" | scrape -be '//a[contains(text(),"Dati citta")]' | xq -r '.html.body.a[0]."@href"')
+  fi
+
   # scarica xlsx
   curl -kL "https://www.comune.palermo.it/$hrefFile" >"$folder"/rawdata/"$anno"_positiviProvinciaPalermo.xlsx
   # trasforma xlsx in csv
