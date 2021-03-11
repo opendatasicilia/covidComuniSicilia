@@ -81,4 +81,7 @@ if [ $code -eq 200 ]; then
   mlr --csv remove-empty-columns then reshape -r "-" -o item,value then sort -f "Pro Com",item then rename item,data,value,positivi "$folder"/../../082053/output/positiviProvinciaPalermo.csv >"$folder"/../../082053/output/positiviProvinciaPalermoLong.csv
   # crea versione del file con nomi comune in colonna
   mlr --csv cut -x -r -f "(Res|Dis|Pro)" then reshape -s COMUNE,positivi then sort -f data then clean-whitespace "$folder"/../../082053/output/positiviProvinciaPalermoLong.csv >"$folder"/../../082053/output/positiviProvinciaPalermoComuni.csv
+
+  # calcolo soglia 250 contagi per 100.000 abitanti
+  mlr -I --csv put '$250ContagiPer100kResidenti=int($positivi/${Residenti al 31/12/2019}*100000);if($250ContagiPer100kResidenti>=250){$allerta=1}else{$allerta=0}' "$folder"/../../082053/output/positiviProvinciaPalermoLong.csv
 fi
